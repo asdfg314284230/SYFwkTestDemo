@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 65879703aec74164e8158dfb488003c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8460828099436412123
+    second: chisel_black
+  - first:
+      213: 5644405282176586609
+    second: Duster_01_black
+  - first:
+      213: -213621296148979084
+    second: Electric drill_black
+  - first:
+      213: -313953978862555704
+    second: Glue_01_black
+  - first:
+      213: -8301989699441449072
+    second: hammer_1_black
+  - first:
+      213: -5357352087290322344
+    second: hammer_black
+  - first:
+      213: 8036848969888809550
+    second: sanding_machine_black
+  - first:
+      213: -2870919873707004762
+    second: saw_black
+  - first:
+      213: -4363496456578158277
+    second: unlock_btn_01
+  - first:
+      213: -7704900579014670539
+    second: unlock_frame_01
+  - first:
+      213: -8342908684457676663
+    second: unlock_frame_02
+  - first:
+      213: 5947069838765092593
+    second: unlock_frame_03
+  - first:
+      213: 8286282306233144733
+    second: unlock_sign_01
+  - first:
+      213: -8938121783132939743
+    second: unlock_sign_02
+  - first:
+      213: -7947565014636691768
+    second: wood-prower_black
+  - first:
+      213: 5282363336185066449
+    second: wood_shave_black
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chisel_black
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1408
+        width: 68
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcfc8c3456ea6570800000000000000
+      internalID: 8460828099436412123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duster_01_black
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1233
+        width: 211
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1735974e2b4f45e40800000000000000
+      internalID: 5644405282176586609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Electric drill_black
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1810
+        width: 192
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472e49e1090190df0800000000000000
+      internalID: -213621296148979084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glue_01_black
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 1931
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cda316058c94abf0800000000000000
+      internalID: -313953978862555704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_1_black
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1295
+        width: 234
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09727dbaa5869cc80800000000000000
+      internalID: -8301989699441449072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hammer_black
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1614
+        width: 252
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852ec5c39acd6a5b0800000000000000
+      internalID: -5357352087290322344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sanding_machine_black
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1475
+        width: 247
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42cfab9e8f988f60800000000000000
+      internalID: 8036848969888809550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saw_black
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1821
+        width: 370
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca51de5917828d0800000000000000
+      internalID: -2870919873707004762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock_btn_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1679
+        width: 301
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31bbfe671fb173c0800000000000000
+      internalID: -4363496456578158277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock_frame_01
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 1671
+        width: 366
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5370126eeb1b21590800000000000000
+      internalID: -7704900579014670539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock_frame_02
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1713
+        width: 157
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980f06d01c8083c80800000000000000
+      internalID: -8342908684457676663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock_frame_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1767
+        width: 597
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe680a628c388250800000000000000
+      internalID: 5947069838765092593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock_sign_01
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1399
+        width: 365
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9591abdad9cef270800000000000000
+      internalID: 8286282306233144733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unlock_sign_02
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1838
+        width: 184
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a1e2d289965f380800000000000000
+      internalID: -8938121783132939743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood-prower_black
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1867
+        width: 184
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cef1492ab394b190800000000000000
+      internalID: -7947565014636691768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wood_shave_black
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1477
+        width: 247
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3bbd39779be4940800000000000000
+      internalID: 5282363336185066449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

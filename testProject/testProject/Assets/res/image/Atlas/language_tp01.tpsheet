@@ -1,0 +1,21 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:e33f1756e05b612f138b794a2ecb1569:df083ab48e443f2d3ab2fdfb48235cd4:2a42483d8895ebe963e14299293206df$
+#
+:format=40300
+:texture=language_tp01.png
+:size=256x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+language_btn_01;1;187;241;68; 0.5;0.5; 0;0;0;0; 4;241;0;0;0;0;68;241;68; 2;1;2;3;0;1;3
+language_btn_02;1;117;241;68; 0.5;0.5; 0;0;0;0; 4;241;0;0;0;0;68;241;68; 2;1;2;3;0;1;3
+language_front_01;45;5;123;28; 0.5;0.5; 0;0;0;0; 4;123;0;0;0;0;28;123;28; 2;1;2;3;0;1;3
+language_front_02;45;35;124;28; 0.5;0.5; 0;0;0;0; 4;124;0;0;0;0;28;124;28; 2;1;2;3;0;1;3
+language_sign_01;1;65;50;50; 0.5;0.5; 0;0;0;0; 6;50;23;29;0;0;0;0;30;34;50;50;50; 4;0;4;5;3;1;2;3;0;1;3;4;0
+language_sign_02;1;21;42;42; 0.5;0.5; 0;0;0;0; 4;42;0;0;0;0;42;42;42; 2;1;2;3;0;1;3

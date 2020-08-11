@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 6af5cf117f77e314299bd203bf2dfb4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2229674608662853098
+    second: quests_bar_01
+  - first:
+      213: 1577206743959499527
+    second: quests_bar_01_bg
+  - first:
+      213: -4359737999882449339
+    second: quests_bar_02
+  - first:
+      213: -1647260702658122786
+    second: quests_bar_02_bg
+  - first:
+      213: 8731755123938182446
+    second: quests_btn_01
+  - first:
+      213: -6057552289037366281
+    second: quests_btn_02
+  - first:
+      213: -5658282998542685205
+    second: quests_frame_01
+  - first:
+      213: -8232078076515088373
+    second: quests_frame_02
+  - first:
+      213: -1040594278977004234
+    second: quests_frame_03
+  - first:
+      213: 723035749554466763
+    second: quests_frame_04
+  - first:
+      213: -4378402077814842774
+    second: quests_frame_05
+  - first:
+      213: 106669008226181845
+    second: quests_GV_line_01
+  - first:
+      213: -799576026509391608
+    second: quests_sign_01
+  - first:
+      213: 944086437198083754
+    second: quests_sign_02
+  - first:
+      213: 3993561328110189358
+    second: quests_sign_03
+  - first:
+      213: -5702850085250809446
+    second: quests_sign_04
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quests_bar_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 969
+        width: 584
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5be064e3561fe10800000000000000
+      internalID: 2229674608662853098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_bar_01_bg
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 994
+        width: 593
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7037e0f5d2d53e510800000000000000
+      internalID: 1577206743959499527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_bar_02
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 978
+        width: 314
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0c3353691f73c0800000000000000
+      internalID: -4359737999882449339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_bar_02_bg
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 998
+        width: 321
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2a955e11c329e0800000000000000
+      internalID: -1647260702658122786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_btn_01
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 913
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25480cb50d6d2970800000000000000
+      internalID: 8731755123938182446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_btn_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 872
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc29399404feba0800000000000000
+      internalID: -6057552289037366281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_frame_01
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 941
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb2b39779db971b0800000000000000
+      internalID: -5658282998542685205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_frame_02
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 933
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b088906da98c1cd80800000000000000
+      internalID: -8232078076515088373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_frame_03
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 930
+        width: 253
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d954e34011f81f0800000000000000
+      internalID: -1040594278977004234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_frame_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 921
+        width: 253
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf2a14fe2db80a00800000000000000
+      internalID: 723035749554466763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_frame_05
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 962
+        width: 222
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a930c028acc33c0800000000000000
+      internalID: -4378402077814842774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_GV_line_01
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 888
+        width: 20
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d26dd7d5e6fa7100800000000000000
+      internalID: 106669008226181845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_sign_01
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 917
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8094df817d557e4f0800000000000000
+      internalID: -799576026509391608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_sign_02
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 913
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b476dc911a1d00800000000000000
+      internalID: 944086437198083754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_sign_03
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 891
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bbebe7edafb6730800000000000000
+      internalID: 3993561328110189358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quests_sign_04
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 877
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91c15dff086bd0b0800000000000000
+      internalID: -5702850085250809446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
