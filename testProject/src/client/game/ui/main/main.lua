@@ -14,12 +14,16 @@ function mod:on_load(param)
     self:init_ui()    
 end
 
-function mod:init_data()
 
-end
 
 function mod:init_ui()
-    self.ui = {}
+    self:bind_button_click(
+        self.gameObject,
+        "start_btn",
+        function()
+            UI.load({name = "fight.fight_main"})
+        end
+    )
 
 end
 
