@@ -13,7 +13,15 @@ mod._load_param = {
 function mod:on_load(param)
     self:init_ui()
     self:init_data()
-    MGR.fight_mgr:init()
+
+    local temp_data = {
+        time_obj = self.ui.down_value,
+        level_obj = self.ui.level_num
+    }
+
+    MGR.fight_mgr:init(temp_data)
+    MGR.fight_mgr:fight_start()
+
 end
 
 function mod:init_data()
@@ -23,7 +31,7 @@ function mod:init_ui()
     self.ui = {}
     local u = {}
     u.top_panel = self:seek_object(self.gameObject, "top_panel")
-    u.down_vale = self:seek_component(u.top_panel, "value", "Text")
+    u.down_value = self:seek_component(u.top_panel, "value", "Text")
     u.level_num = self:seek_component(u.top_panel, "level_num", "Text")
 
     u.bottom_panel = self:seek_object(self.gameObject, "bottom_panel")
