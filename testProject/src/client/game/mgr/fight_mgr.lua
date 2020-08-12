@@ -17,15 +17,37 @@ function _MGR:on_load()
     )
 end
 
+function _MGR:update(dt)
+    if self.state == "fight_start" then
+        if self.time_temp < 1 then
+            self.time_temp = self.time_temp + dt
+        else
+            self.time_temp = self.time_temp - 1
+            self.fight_time = self.fight_time - 1
+        end
+
+        if self.fight_item_time < self.load_item_time then
+            self.fight_item_time = self.fight_item_time + dt
+        else
+            self.fight_item_time = self.fight_item_time - self.load_item_time
+            -- 生成item
+            self:load_enemy_item()
+        end
+    end
+
+    self.time_obj.text = self.fight_time
+end
+
 function _MGR:init(param)
     self.state = "nor"
     self.fight_time = 60
     self.fight_value = 0
     self.time_temp = 0
+    self.fight_item_time = 0
+
     self.time_obj = param.time_obj
     self.level_obj = param.level_obj
-
-
+    self.monster_pos = param.monster_pos
 end
 
 function _MGR:fight_start()
@@ -36,10 +58,8 @@ end
 function _MGR:init_all_enmey()
     -- 获取当前关卡
     local lv = M.fight:get_info("lv")
-    
-    self.state = "fight_start"
 
-    local enemy_list = {
+    self.enemy_list = {
         [1] = "001",
         [2] = "002",
         [3] = "003",
@@ -68,23 +88,25 @@ function _MGR:init_all_enmey()
         ["005"] = {
             name = "果冻冰毒",
             tp = 1
-        },
+        }
     }
 
+    -- 设置生成item的时间间隔
+    self.load_item_time = 2.5
 
+    self.state = "fight_start"
 end
 
-function _MGR:update(dt)
-    if self.state == "fight_start" then
-        if self.time_temp  < 1 then
-            self.time_temp = self.time_temp + dt
-        else
-            self.time_temp = self.time_temp - 1
-            self.fight_time = self.fight_time - 1
-        end
-    end
+function _MGR:load_enemy_item()
+    -- 这里算下随机权重给一个生成ID进来
+    local randow = math.random(1, 5)
 
-    self.time_obj.text = self.fight_time
+    local load_id = self.enemy_list[randow]
+
+    if load_id then
+        -- 生成item
+        UI.load({name = "fight.fight_item", parent = self.monster_pos.transform}, {cid = load_id})
+    end
 end
 
 function _MGR:fight_end()

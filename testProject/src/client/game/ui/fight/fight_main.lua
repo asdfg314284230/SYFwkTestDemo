@@ -16,7 +16,8 @@ function mod:on_load(param)
 
     local temp_data = {
         time_obj = self.ui.down_value,
-        level_obj = self.ui.level_num
+        level_obj = self.ui.level_num,
+        monster_pos = self.ui.monster_pos
     }
 
     MGR.fight_mgr:init(temp_data)
