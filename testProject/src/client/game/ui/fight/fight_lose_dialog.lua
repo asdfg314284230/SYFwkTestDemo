@@ -20,6 +20,7 @@ function mod:init_ui()
         "quit_btn",
         function()
             UI.load({name = "loading.loading_main"})
+            self:destroy()
         end
     )
 end

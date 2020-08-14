@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+message GM {
+	required string param = 1;
+}
+
+message NULL {
+
+}
