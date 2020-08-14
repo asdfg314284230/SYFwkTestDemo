@@ -33,6 +33,10 @@ function _MGR:update(dt)
             -- 生成item
             self:load_enemy_item()
         end
+
+        if self.fight_time <= 0 then
+            self:fight_end()
+        end
     end
 
     self.time_obj.text = self.fight_time
@@ -40,10 +44,11 @@ end
 
 function _MGR:init(param)
     self.state = "nor"
-    self.fight_time = 60
+    self.fight_time = 10
     self.fight_value = 0
     self.time_temp = 0
     self.fight_item_time = 0
+    self.load_item_list = {}
 
     self.time_obj = param.time_obj
     self.level_obj = param.level_obj
@@ -105,13 +110,30 @@ function _MGR:load_enemy_item()
 
     if load_id then
         -- 生成item
-        UI.load({name = "fight.fight_item", parent = self.monster_pos.transform}, {cid = load_id})
+        local uiid = UI.load({name = "fight.fight_item", parent = self.monster_pos.transform}, {cid = load_id})
+        table.insert(self.load_item_list, uiid)
     end
 end
 
 function _MGR:fight_end()
-    self.state = "fight_end"
-    self.fight_time = nil
+    self.state = "nor"
+    self.fight_time = 60
+    -- 设置时间轴为0
+    UI.set_time_scale(0)
+
+    -- 清楚场上所有item
+    for k, v in pairs(self.load_item_list) do
+        UI.destroy(v)
+    end
+
+    local fight_value = M.fight:get_info("value")
+
+    -- 弹窗
+    if fight_value >= 60 then
+        UI.load({name = "fight.fight_win_dialog"})
+    else
+        UI.load({name = "fight.fight_lose_dialog"})
+    end
 end
 
 function _MGR:exit()

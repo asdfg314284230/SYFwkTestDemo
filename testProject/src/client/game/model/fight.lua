@@ -1,7 +1,5 @@
 local _M = {}
 
-
-
 function _M:on_load()
     self.fight = M.get_local_data("fight") or {}
     self.fight.lv = self.fight.lv or 1
@@ -34,6 +32,11 @@ end
 
 function _M:set_lv(lv)
     self.fight.lv = lv
+    self:save()
+end
+
+function _M:set_value(value)
+    self.fight.value = value
     self:save()
 end
 

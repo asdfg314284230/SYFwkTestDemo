@@ -20,6 +20,7 @@ function mod:init_data(param)
     self.cid = param.cid
     self.conf = M.fight:get_fight_conf()[self.cid]
     self.tp = self.conf.tp
+    
     self.state = "nor"
 
     -- 生成的时候还要把X的坐标左右随机偏移点
@@ -44,6 +45,7 @@ function mod:init_ui()
     self.drag_btn.on_begin_drag = U.handle(self, self.on_begin_drag)
     self.drag_btn.on_drag = U.handle(self, self.on_drag)
     self.drag_btn.on_end_drag = U.handle(self, self.on_end_drag)
+
 end
 
 function mod:refresh_ui()
@@ -76,6 +78,10 @@ end
 
 function mod:on_end_drag(e)
     self.state = "nor"
+end
+
+function mod:command_remove()
+    UI.destroy(self:get_ui_id())
 end
 
 return UI.export(mod)
