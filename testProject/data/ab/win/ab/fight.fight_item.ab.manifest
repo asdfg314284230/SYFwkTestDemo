@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 4002368108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45b74c8f27a8dd4622c5fb28a761a02b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 89f6ac41c24644edac068f5682a1a3b3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 82582d5310d5fda49949408a9d870518, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/prefab/fight/fight_item.prefab
+Dependencies: []

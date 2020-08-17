@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3982717784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 48ad1429b5dfc32ed1c275c6bcf98caa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/106710241-shop-til-you-drop-light-easy.mp3
+Dependencies: []

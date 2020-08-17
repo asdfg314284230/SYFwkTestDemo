@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 293150659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 296e9de42c434da69052421fd789e535
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/057503471-taking-screws-out-wood-drill-1_drill.mp3
+Dependencies: []

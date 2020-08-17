@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1593857359
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b2780ef4167535985b636ebe4e5171cc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/068878996-advertising-ukulele-upbeat-chi.mp3
+Dependencies: []

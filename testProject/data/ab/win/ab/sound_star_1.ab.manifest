@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3252460554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7962b53cb512d4bafc9d4b1e06c9cb8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/star_1.mp3
+Dependencies: []
