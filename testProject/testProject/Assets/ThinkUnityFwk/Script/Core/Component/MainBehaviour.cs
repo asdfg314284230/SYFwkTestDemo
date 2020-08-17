@@ -30,7 +30,6 @@ namespace SYFwk.Core
             Debug.Log("Application.targetFrameRate = " + Application.targetFrameRate);
             Application.targetFrameRate = 60;
             Debug.Log("Application.targetFrameRate = " + Application.targetFrameRate);
-
         }
 
         public Action OnLowMemory_func;

@@ -79,16 +79,21 @@ namespace SYFwk.Core
             }
             else if(sLoadMode == LoadMode.LM_RUN)
             {
-                string[] fwk = { "fwk", Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"), "1" };
-                string[] network = { "network", Path.Combine(UnityEngine.Application.persistentDataPath, "lua/game"), "1" };
-                string[] game = { "game", Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"), "1" };
-                string[] config = { "config", Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"), "1" };
-                string[] share = { "share", Path.Combine(UnityEngine.Application.persistentDataPath, "lua/game"), "1" };
+                //string[] fwk = { "fwk", Path.Combine(UnityEngine.Application.streamingAssetsPath, "/"), "0" };
+                ////string[] network = { "network", Path.Combine(UnityEngine.Application.streamingAssetsPath, "lua/game"), "1" };
+                //string[] game = { "game", Path.Combine(UnityEngine.Application.streamingAssetsPath, "/"), "0" };
+                //string[] config = { "config", Path.Combine(UnityEngine.Application.streamingAssetsPath, "/"), "0" };
+                ////string[] share = { "share", Path.Combine(UnityEngine.Application.streamingAssetsPath, "lua/game"), "1" };
+
+                string[] fwk = { "fwk", UnityEngine.Application.streamingAssetsPath + "/", "0" };
+                string[] game = { "game", UnityEngine.Application.streamingAssetsPath + "/", "0" };
+                string[] config = { "config", UnityEngine.Application.streamingAssetsPath + "/", "0" };
+
                 sLuaSearchList.Add(fwk);
-                sLuaSearchList.Add(network);
+                //sLuaSearchList.Add(network);
                 sLuaSearchList.Add(game);
                 sLuaSearchList.Add(config);
-                sLuaSearchList.Add(share);
+                //sLuaSearchList.Add(share);
             }
             SYLuaEnv.sEnv.AddLoader((ref string name) =>
             {
@@ -261,18 +266,26 @@ namespace SYFwk.Core
         {
 
             sLuaSearchList = new ArrayList();
+            ////游戏框架lua
+            //sLuaSearchList.Add(Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"));
+            ////游戏逻辑lua
+            //sLuaSearchList.Add(Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"));
+            ////游戏配置lua
+            //sLuaSearchList.Add(Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"));
+
             //游戏框架lua
-            sLuaSearchList.Add(Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"));
+            sLuaSearchList.Add(Path.Combine(UnityEngine.Application.streamingAssetsPath));
             //游戏逻辑lua
-            sLuaSearchList.Add(Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"));
+            sLuaSearchList.Add(Path.Combine(UnityEngine.Application.streamingAssetsPath));
             //游戏配置lua
-            sLuaSearchList.Add(Path.Combine(UnityEngine.Application.persistentDataPath, "lua/"));
+            sLuaSearchList.Add(Path.Combine(UnityEngine.Application.streamingAssetsPath));
 
             SYLuaEnv.sEnv.AddLoader((ref string name) =>
             {
                 foreach (string path in sLuaSearchList)
                 {
                     var filepath = Path.Combine(path, name.Replace('.', '/') + ".lua");
+
                     if (File.Exists(filepath))
                     {
                         Stream stream = File.Open(filepath, FileMode.Open, FileAccess.Read);
@@ -281,8 +294,12 @@ namespace SYFwk.Core
 
                         stream.Close();
 
-                        string decrypt_data = Xxtea.XXTEA.DecryptBase64StringToString(text, "xProject");
-                        return System.Text.Encoding.UTF8.GetBytes(decrypt_data);
+                        // 这里放弃了加密
+                        //string decrypt_data = Xxtea.XXTEA.DecryptBase64StringToString(text, "xProject");
+                        //return System.Text.Encoding.UTF8.GetBytes(decrypt_data);
+                        
+                        // 默认加载
+                        return System.Text.Encoding.UTF8.GetBytes(text);
                     }
                 }
                 return null;
@@ -292,6 +309,8 @@ namespace SYFwk.Core
         public static LuaFunction loadstring(string name, LuaTable env = null)
         {
             string[] tab = name.Split('/');
+
+            
             foreach (string[] param in sLuaSearchList)
             {
                 
@@ -301,6 +320,8 @@ namespace SYFwk.Core
                 }
 
                 var filepath = Path.Combine(param[1], name);
+
+
                 if (File.Exists(filepath))
                 {
                     Stream stream = File.Open(filepath, FileMode.Open, FileAccess.Read);
@@ -309,15 +330,18 @@ namespace SYFwk.Core
 
                     stream.Close();
 
-                    if (param[2].Equals("0"))
-                    {
-                        return SYLuaEnv.sEnv.LoadString(text, name, env);
-                    }
-                    else
-                    {
-                        string decrypt_data = Xxtea.XXTEA.DecryptBase64StringToString(text, "xProject");
-                        return SYLuaEnv.sEnv.LoadString(decrypt_data, name, env);
-                    }
+
+                    //if (param[2].Equals("0"))
+                    //{
+                    //    return SYLuaEnv.sEnv.LoadString(text, name, env);
+                    //}
+                    //else
+                    //{
+                    //    string decrypt_data = Xxtea.XXTEA.DecryptBase64StringToString(text, "xProject");
+                    //    return SYLuaEnv.sEnv.LoadString(decrypt_data, name, env);
+                    //}
+
+                    return SYLuaEnv.sEnv.LoadString(text, name, env);
                 }
             }
 

@@ -80,7 +80,7 @@ end
 -- 更新回调
 fwk.update = function (...)
     util.update(...)
-    -- mui.event("update", ...)
+    mui.event("update", ...)
     -- mnetwork.update(...)
     -- localserver.update(...)
 end

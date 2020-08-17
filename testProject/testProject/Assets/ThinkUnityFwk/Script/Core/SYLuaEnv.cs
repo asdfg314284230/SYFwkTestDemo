@@ -10,7 +10,7 @@ namespace SYFwk.Core
     {
         internal static LuaEnv sEnv { get; private set; }
         public static string DEV_LUA_PATH = Path.GetFullPath(UnityEngine.Application.dataPath + "/../../src/client/");
-        public static string RUN_LUA_PATH = Path.GetFullPath(UnityEngine.Application.persistentDataPath + "/lua/");
+        public static string RUN_LUA_PATH = Path.GetFullPath(UnityEngine.Application.streamingAssetsPath + "/");
         [CSharpCallLua]
         public interface IFwk
         {
@@ -38,8 +38,6 @@ namespace SYFwk.Core
         {
             sEnv.DoString(@"require 'fwk.syfwk'");
             sFwk = sEnv.Global.Get<IFwk>("_z__fwk");
-
-            Debug.Log(RUN_LUA_PATH);
 
             LuaTable tab = sEnv.NewTable();
 
