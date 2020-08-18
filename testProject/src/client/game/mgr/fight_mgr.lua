@@ -44,7 +44,7 @@ end
 
 function _MGR:init(param)
     self.state = "nor"
-    self.fight_time = 10
+    self.fight_time = 60
     self.fight_value = 0
     self.time_temp = 0
     self.fight_item_time = 0
@@ -53,15 +53,19 @@ function _MGR:init(param)
     self.time_obj = param.time_obj
     self.level_obj = param.level_obj
     self.monster_pos = param.monster_pos
+    self.move_panel_list = param.move_panel_list
 end
 
 function _MGR:fight_start()
+    -- 滚动背景布
+    self:init_move_bg()
+
     -- 初始化怪物
     self:init_all_enmey()
 end
 
 function _MGR:init_all_enmey()
-    -- 获取当前关卡
+    -- 获取当前关卡（目前没有关卡的概念）
     local lv = M.fight:get_info("lv")
 
     self.enemy_list = {
@@ -75,31 +79,35 @@ function _MGR:init_all_enmey()
     -- 根据关卡配置生成item
     self.enemy_conf = {
         ["001"] = {
-            name = "冰毒",
-            tp = 1
+            name = "冰毒"
         },
         ["002"] = {
-            name = "K粉",
-            tp = 1
+            name = "K粉"
         },
         ["003"] = {
-            name = "大麻",
-            tp = 1
+            name = "大麻"
         },
         ["004"] = {
-            name = "大麻糖果",
-            tp = 1
+            name = "大麻糖果"
         },
         ["005"] = {
-            name = "果冻冰毒",
-            tp = 1
+            name = "果冻冰毒"
         }
     }
 
     -- 设置生成item的时间间隔
-    self.load_item_time = 2.5
+    self.load_item_time = 1.5
 
     self.state = "fight_start"
+end
+
+-- 背景布滚动
+function _MGR:init_move_bg()
+    for i = 1, 2 do
+        
+        -- local pos = self.move_panel_list[i].transform
+
+    end
 end
 
 function _MGR:load_enemy_item()
@@ -118,22 +126,17 @@ end
 function _MGR:fight_end()
     self.state = "nor"
     self.fight_time = 60
-    -- 设置时间轴为0
-    UI.set_time_scale(0)
+
+    -- -- 设置时间轴为0
+    -- UI.set_time_scale(0)
 
     -- 清楚场上所有item
     for k, v in pairs(self.load_item_list) do
         UI.destroy(v)
     end
 
-    local fight_value = M.fight:get_info("value")
-
-    -- 弹窗
-    if fight_value >= 60 then
-        UI.load({name = "fight.fight_win_dialog"})
-    else
-        UI.load({name = "fight.fight_lose_dialog"})
-    end
+    -- -- 关卡积分
+    -- local fight_value = M.fight:get_info("value")
 end
 
 function _MGR:exit()

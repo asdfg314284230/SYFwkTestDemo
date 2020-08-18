@@ -17,7 +17,8 @@ function mod:on_load(param)
     local temp_data = {
         time_obj = self.ui.down_value,
         level_obj = self.ui.level_num,
-        monster_pos = self.ui.monster_pos
+        monster_pos = self.ui.monster_pos,
+        move_panle_list = self.ui.move_panle_list
     }
 
     MGR.fight_mgr:init(temp_data)
@@ -25,7 +26,7 @@ function mod:on_load(param)
 end
 
 function mod:init_data()
-    self.num_value = 0
+    -- self.num_value = 0
 end
 
 function mod:init_ui()
@@ -34,51 +35,16 @@ function mod:init_ui()
     u.top_panel = self:seek_object(self.gameObject, "top_panel")
     u.down_value = self:seek_component(u.top_panel, "value", "Text")
     u.level_num = self:seek_component(u.top_panel, "level_num", "Text")
-
     u.bottom_panel = self:seek_object(self.gameObject, "bottom_panel")
+    u.move_panle_list = {}
 
-    u.tp_item_list = {}
-
-    for i = 1, 3 do
-        local key = "tp" .. i
-        local obj = self:seek_object(u.bottom_panel, key)
-        local o = {}
-        o.obj = obj
-        o.collider = self:seek_component(o.obj, nil, "BoxCollider2D")
-
-        o.collider_handle = self:seek_component(o.obj, nil, "ColliderHandle")
-
-        o.on_trigger_enter = function(self,other)
-            local beh = self:seek_component(other.gameObject, other.gameObject.name, "LuaUIBehaveour")
-            if beh then
-                local luaCtx = beh.luaCtx
-                local tp = luaCtx.luaobj.tp
-                
-                if tp == i then
-                    self.num_value = self.num_value + 5
-                else
-                    self.num_value = self.num_value - 5
-                end
-
-                -- ???????
-                M.fight:set_value(self.num_value)
-
-                u.level_num.text = self.num_value
-
-                luaCtx.luaobj:command_remove()
-            end
-        end
-
-        o.collider_handle.on_trigger_enter = U.handle(self, o.on_trigger_enter)
-        
-        table.insert(u.tp_item_list, o)
+    for i = 1, 2 do
+        table.insert(u.move_panle_list, self:seek_object(self.gameObject, "bg" .. i))
     end
 
     u.monster_pos = self:seek_component(self.gameObject, "monster_pos", "RectTransform")
 
     self.ui = u
 end
-
-
 
 return UI.export(mod)
