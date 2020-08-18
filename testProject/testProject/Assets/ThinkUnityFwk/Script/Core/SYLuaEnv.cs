@@ -37,6 +37,8 @@ namespace SYFwk.Core
         static public void Start()
         {
             sEnv.DoString(@"require 'fwk.syfwk'");
+
+            Debug.Log(sEnv);
             sFwk = sEnv.Global.Get<IFwk>("_z__fwk");
 
             LuaTable tab = sEnv.NewTable();

@@ -36,9 +36,9 @@ end
 
 
 local init = function()
+    -- 注册消息
     local msg = require("network.message")
     local ec = require("network.error_code")
-
 
     for k, v in pairs(msg) do
         define(v[1], v[2], v[3], v[4], v[5])

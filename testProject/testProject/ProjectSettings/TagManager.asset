@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: world
+    uniqueID: 1705235315
+    locked: 0
+  - name: base
+    uniqueID: 3224837395
+    locked: 0
+  - name: actionbar
+    uniqueID: 2193152491
+    locked: 0
+  - name: dialog
+    uniqueID: 143235623
+    locked: 0
+  - name: tip
+    uniqueID: 761165331
+    locked: 0
+  - name: network
+    uniqueID: 2501623769
+    locked: 0

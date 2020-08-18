@@ -52,6 +52,7 @@ fwk.init = function(mode, cfg)
     run_mode = mode
     util.init(mode, cfg)
     C     = mconfig.init()
+    -- 网络模块相关东西有空的时候自己搭建一个连接试试
     -- N     = mnetwork.init(mode, cfg, mmodel)
     -- NM    = N.NM
     -- NMINFO= N.NMINFO

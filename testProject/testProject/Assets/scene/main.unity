@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.3731193, g: 0.38073996, b: 0.35872698, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -197,7 +197,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
-  m_SortingLayerID: -747891849
+  m_SortingLayerID: -2101814805
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &195951613
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 13c2892aa84a3f249b0db2796a42190a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RunMode: 4
+  RunMode: 2
 --- !u!4 &755389665
 Transform:
   m_ObjectHideFlags: 0
@@ -339,7 +339,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
-  m_SortingLayerID: -589254917
+  m_SortingLayerID: -1070129901
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &828018879
@@ -616,7 +616,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 25
-  m_SortingLayerID: 1863009317
+  m_SortingLayerID: 1705235315
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &1454197824
@@ -714,7 +714,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: -1066947491
+  m_SortingLayerID: 143235623
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &1614318068
@@ -1032,7 +1032,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: 858596595
+  m_SortingLayerID: 761165331
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &2026109546
@@ -1130,7 +1130,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
-  m_SortingLayerID: -2087947705
+  m_SortingLayerID: -1793343527
   m_SortingOrder: 0
   m_TargetDisplay: 0
 --- !u!224 &2046328556
