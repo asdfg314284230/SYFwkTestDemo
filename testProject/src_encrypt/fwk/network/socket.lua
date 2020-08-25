@@ -1,1 +1,210 @@
-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
+--------------------------------------------------------------------------------------
+-- author yang
+-- date 2018-04-18
+-- copyright 2018 -- 2018 yang zhang
+-- desc socket
+-- @local
+--------------------------------------------------------------------------------------
+
+local core = require "socket.core"
+local socket = {}
+socket.__index = socket
+
+local _fd_opening = {}
+local _fd_opened  = {}
+local _fd_2_socket = {}
+
+function socket.open(host, port, cb)
+    local fd, err, success
+    -- 检测地址类型
+    local addrinfo, err = core.dns.getaddrinfo(host) -- 这个会阻塞
+    if addrinfo then
+        local v6 = false
+        for k,v in pairs(addrinfo) do  
+            if v.family == "inet6" then  
+                v6 = true  
+                break  
+            end  
+        end
+        if v6 then
+            fd = assert(core.tcp6())
+        else
+            fd = assert(core.tcp())
+        end
+    else
+        -- 解析失败了，还是创建一个fd，走整个流程
+        fd = core.top()
+    end
+    
+    if fd then
+        fd:settimeout(0)                -- no block
+        fd:setoption("tcp-nodelay", true)
+        success, err = fd:connect(host, port)
+    end
+
+    local obj = setmetatable({
+        _fd = fd,
+        _port = port,
+        _host = host,
+        _pkg_size = 0,              -- 解析出的包大小
+        _cb = cb,
+        _send_queue = {},
+        _connect_time = os.time(),  -- 发起连接的时间
+    }, socket)
+
+
+    _fd_2_socket[fd] = obj
+    _fd_opening[fd] = obj
+    if not success and err ~= "timeout" then
+        obj._err = err
+    end
+    return obj
+end
+
+function socket.update()
+
+    local ws = table.keys(_fd_opened)
+    local rs = table.keys(_fd_opening)
+    local r, w = core.select(ws, rs, 0)
+    --print(#ws, #rs, #r, #w)
+    if #w > 0 then
+        for _, fd in ipairs(w) do 
+            local sock = assert(_fd_2_socket[fd])
+            sock:_on_open()
+        end
+    end
+    if #r > 0 then
+        for _, fd in ipairs(r) do 
+            local sock = assert(_fd_2_socket[fd])
+            sock:_on_receive()
+        end
+    end
+
+    -- 检测是否连接超时
+    local now = os.time()
+    for fd, sock in pairs(_fd_opening) do 
+        local err = sock._err or fd:getoption("error")
+        if err then
+            print(fd, "close", err)
+            sock:_on_close()
+        end
+    end
+    -- 检测是否需要发送数据
+    for fd, sock in pairs(_fd_opened) do 
+        sock:_send()
+    end
+end
+
+function socket:send(package)
+    local buffer = string.pack(">s2", package)
+    table.insert(self._send_queue, buffer)
+end
+
+function socket:_send()
+    for i = 1, 16 do -- 每一帧最多发送16个包，暂时应该是够的
+        local buffer = table.remove(self._send_queue, 1)
+        if buffer then
+            local ret, err = self._fd:send(buffer)
+        else 
+            break
+        end
+    end
+
+end
+
+function socket:_on_open()
+    _fd_opening[self._fd] = nil
+    _fd_opened[self._fd]  = self
+    self._buffer_size = 0
+    self:_notify("open")
+end
+
+function socket:_notify(cmd, ...)
+    self._cb(cmd, self, ...)
+end
+
+function socket:_dispatch(package)
+    self._cb("package", self, package)
+end
+
+local HEAD_SIZE = 2
+function socket:_on_receive()
+    local close = false
+    local close_info = nil
+    local _do_recvice = function (size)
+        local data = nil
+        local d1, err, d2 = self._fd:receive(size)      --读取足够数据d1, 非完整数据 d2
+        if d1 then
+            data = d1
+        elseif err == "timeout" and d2 ~= nil then
+            data = d2
+        elseif err == "closed" then
+            -- 远端断开了连接，可能最后会发送一条消息
+            if d2 then
+                data = d2
+            end
+            close = true
+        end
+        if data then
+            if self._buffer == nil then
+                self._buffer = data
+            else 
+                self._buffer = self._buffer .. data
+            end
+            self._buffer_size = string.len(self._buffer)
+        end
+    end
+    while true do 
+        if self._fd == nil then -- 连接上就被断开了
+            close = true
+            break
+        end
+        local data = nil
+        if self._pkg_size == 0 then     -- 包大小为0，说明还没解析包头
+            _do_recvice(HEAD_SIZE)
+            if self._buffer_size >= HEAD_SIZE then
+                -- 大端, 如果改了HEAD_SIZE 这个计算逻辑也要改
+                local b1, b2 = string.byte(self._buffer, 1, 2); 
+                self._pkg_size = b1 * 256 + b2
+            else
+                break
+            end
+        end
+        if self._pkg_size > 0 then
+            _do_recvice(self._pkg_size) -- 这里粘包第二次读取时，没有这么多数据，貌似多读一点没所谓
+            -- 有完整包
+            if self._buffer_size >= self._pkg_size + HEAD_SIZE then
+                local package = string.sub(self._buffer, HEAD_SIZE + 1, self._pkg_size + HEAD_SIZE)
+                self._buffer = string.sub(self._buffer, self._pkg_size + HEAD_SIZE + 1)
+                self._buffer_size = string.len(self._buffer)
+                self._pkg_size = 0
+                self:_dispatch(package)
+            -- 没有完整包
+            else
+                break
+            end
+        end
+    end
+    if close then
+        self:_on_close(self._buffer)
+    end
+end
+
+function socket:_on_close(close_info)
+    if self._fd then
+        _fd_opened[self._fd] = nil
+        _fd_opening[self._fd] = nil
+        _fd_2_socket[self._fd] = nil
+        self._fd = nil
+        self:_notify("close", close_info)
+    end
+end
+
+function socket:close()
+    if self._fd then
+        self._fd:close()
+        self:_on_close()    -- 主动关闭给上层补发一个close消息
+    end
+end
+
+return socket

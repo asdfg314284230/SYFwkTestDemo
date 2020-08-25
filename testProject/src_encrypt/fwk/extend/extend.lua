@@ -1,1 +1,11 @@
-ghiuq+NSCRMu2ppC5HvHwqkIMwIZa1eUWcuhcsZVY6By+pC+U5HSnHYA7AT4uYiE3RIRRmPLS6WZcNZ7ym5srT+2aFQC0Dt/yZOK/BFfV1/tMWgshiAsLFUWalaHH4MuL+SsH0dZ+vKVVnYCeuqJOzdaOP2CVhnKc84btUAGe8XsWaPYj8d1nQLsuVxbBaVYa+BJJ1T2uaDws3dk1iQZXPnb87CIEl8nNjbQ5tn2I5BqVpCzhKhLRqociGFdF7hf9XKn6HvBKkWg1Rk4IWCNynfvoqc0zWAzdAJGa9cpSK+MSLE/kwNlDs0HOOcukVZhGg4boFlaGGgadLWtUq201g2QA+TGCuwH00obezt7zMmNUQyOUeul9DgI6i74INtxE/6zU6xAxx7sJSH3/kl7tMKGcTrDeLgVgJVhfigwEi86i7NgOijPliftEeNswG/GxfM+AmX1++8N473trAH4pyVcEn1HCXcLkezthloUWzE4EKXw
+--------------------------------------------------------------------------------------
+-- lua语言本身的扩展
+-- @module fwk.extend
+-- @author liuyang
+-- @copyright liuyang 2019
+-- @date 2019-01-24
+-- @local
+--------------------------------------------------------------------------------------
+
+require "fwk.extend.string"
+require "fwk.extend.table"

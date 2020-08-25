@@ -1,1 +1,104 @@
-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
+local loader = {}
+
+local _impl_dev = {}
+local _impl_editor = {}
+local _impl_runtime = {}
+
+-- these must match with C# LuaLoader
+loader.MODE_FWK  = 1
+loader.MODE_DEV  = 2
+loader.MODE_EDIT = 3
+loader.MODE_RUN  = 4
+loader.run_mode  = loader.MODE_RUN
+
+local _root = nil
+local _mode = nil
+
+-- function _impl_dev.load(name, env)
+--     assert(_root)
+--     local fun, err = loadfile(_root.. string.gsub(name, "%.", "/") .. ".lua", "bt", env)
+--     if not fun then
+--         -- if _mode == loader.MODE_DEV then       -- 开发模式下，部分代码在pkg中
+--         --     return _do_pkg_load(name, env, err)
+--         -- end
+--         print(err)
+--         return nil, err
+--     end
+--     return fun()
+-- end
+
+-- function _impl_editor.load(name, env)
+--     assert(_root)
+--     local tab = string.split(name, ".")
+--     if tab[1] == "config" then
+--         local fun, err = loadfile(_root.. string.gsub(name, "%.", "/") .. ".lua", "bt", env)
+--         if not fun then
+--             print(err)
+--             return nil, err
+--         end
+--         return fun()
+--     else
+--         local fun = CS.SYFwk.Core.LuaLoader.loadstring(_root.. string.gsub(name, "%.", "/") .. ".lua", env)
+--         if not fun then
+--             local err = tostring(_root.. string.gsub(name, "%.", "/") .. ".lua") .. " load fail"
+--             print(err)
+--             return nil, err
+--         end
+--         return fun()
+--     end
+
+-- end
+
+
+-- function _impl_runtime.load(name, env)
+--     assert(_root)
+--     -- local fun, err = loadfile(_root.. string.gsub(name, "%.", "/") .. ".lua", "bt", env)
+--     local fun = CS.SYFwk.Core.LuaLoader.loadstring(_root.. string.gsub(name, "%.", "/") .. ".lua", env)
+--     if not fun then
+--         -- if _mode == loader.MODE_DEV then       -- 开发模式下，部分代码在pkg中
+--         --     return _do_pkg_load(name, env, err)
+--         -- end
+--         local err = tostring(_root.. string.gsub(name, "%.", "/") .. ".lua") .. " load fail"
+--         print(err)
+--         return nil, err
+--     end
+--     return fun()
+-- end
+
+-- 根据参数，设置成从路径加载，还是从压缩包中加载。
+local late_init = function (mode, cfg)
+    _root = cfg.root
+    _mode = cfg.mode
+    if mode == "unity" then
+        -- if cfg.mode == loader.MODE_RUN then
+        --     loader.load = _impl_runtime.load
+        -- elseif cfg.mode == loader.MODE_EDIT then
+        --     loader.load = _impl_editor.load
+        -- else
+        --     loader.load = _impl_dev.load
+        -- end
+        loader.load = function(name, env)
+            local fun = CS.SYFwk.Core.LuaLoader.loadstring(string.gsub(name, "%.", "/") .. ".lua", env)
+            if not fun then
+                local err = tostring(string.gsub(name, "%.", "/") .. ".lua") .. " load fail"
+                print(err)
+                return nil, err
+            end
+            return fun()
+        end
+    end
+end
+
+local function init (mode, cfg)
+    loader.mode = cfg.mode
+end
+
+
+-- 框架调用这个函数，函数的返回值为对外导出函数列表
+return function (util)
+    util.loader = loader
+    return {
+        init = init,
+        late_init = late_init,       -- 这里late初始化，是因为不想让框架启动完毕前，使用load功能
+    }
+end

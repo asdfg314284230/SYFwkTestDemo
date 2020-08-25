@@ -1,1 +1,278 @@
-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
+--------------------------------------------------------------------------------------
+-- author liuyang
+-- date 2019-02-12
+-- desc 用户UI模块基础方法
+--------------------------------------------------------------------------------------
+local base = {}
+base.__index = base
+local _load_id = 0
+
+local _util = nil
+local function init(util)
+    _util = util
+end
+
+local function get_load_id()
+    _load_id = _load_id + 1
+    return tostring(_load_id)
+end
+
+--------------------------------------------------------------------------------------
+-- 添加游戏对象组件
+-- @param ob gameObject
+-- @param name 组件名字
+function base:add_component(ob, name, ...)
+    return _util.add_component(ob, name, ...)
+end
+
+--------------------------------------------------------------------------------------
+-- 添加无lua脚本的游戏对象
+-- @param prefab 预制
+-- @param parent 父节点
+function base:add(prefab, parent, ...)
+    assert(parent, "not find parent")
+    return CS.UnityEngine.GameObject.Instantiate(prefab, parent, ...)
+end
+
+--------------------------------------------------------------------------------------
+-- 通过预制添加无lua脚本的游戏对象
+-- @param path 预制
+-- @param parent 父节点
+-- @param func 回调
+-- @param instantiateInWorldSpace instantiateInWorldSpace
+function base:add_by_path(path, parent, func, instantiateInWorldSpace)
+    _util.uloader.add_ref_map(nil, path, _util.uloader.PREFAB)
+    _util.load_prefab_sync(path, function(prefab)
+        assert(parent, "not find parent")
+        local ob = CS.UnityEngine.GameObject.Instantiate(prefab, parent, not not instantiateInWorldSpace)
+        _util.uloader.add_ref_map_after(ob.gameObject, path, _util.uloader.PREFAB)
+        if func then
+            func(ob)
+        end
+    end)
+end
+
+--------------------------------------------------------------------------------------
+-- 移除无lua脚本的游戏对象
+-- @param ob 游戏对象
+function base:remove(ob, ...)
+    CS.UnityEngine.GameObject.Destroy(ob, ...)
+end
+
+--------------------------------------------------------------------------------------
+-- 立即移除无lua脚本的游戏对象
+-- @param ob 游戏对象
+function base:remove_immediate(ob, ...)
+    CS.UnityEngine.GameObject.DestroyImmediate(ob, ...)
+end
+--------------------------------------------------------------------------------------
+-- 销毁自身
+-- @param param 用户数据
+function base:destroy_self(param)
+    UI.destroy(self:get_ui_id(), param)
+end
+
+--------------------------------------------------------------------------------------
+-- 查询游戏组件<br>
+-- 重载1：node(父节点), name（对象名字）, type_string(组件类型)<br>
+-- 重载2：name（对象名字）, type_string(组件类型)
+function base:seek_component(...)
+    local node, name, com_type = ...
+    if select("#", ...) == 2 then
+        name, com_type = ...
+        node = self.gameObject
+    end
+    --assert(type(name) == "string", "seek_component name must string")
+    assert(type(com_type) == "string", "seek_component component_type must string")
+    return _util.seek_component(node, name, com_type)
+end
+
+
+--------------------------------------------------------------------------------------
+-- 查询游戏对象 <br>
+-- 重载1：node(父节点), name（对象名字） <br>
+-- 重载2：name（对象名字）
+function base:seek_object(...)
+    local node, name, com_type = ...
+    if select("#", ...) == 1 then
+        name = ...
+        node = self.gameObject
+    end
+    return _util.seek_object(node, name)
+end
+
+--------------------------------------------------------------------------------------
+-- 通过tag查找父节点游戏对象 <br>
+-- 重载1：node(父节点), tag（标签） <br>
+-- 重载2：tag（标签）
+function base:seek_parent_object_by_tag(...)
+    local node, tag, com_type = ...
+    if select("#", ...) == 1 then
+        tag = ...
+        node = self.gameObject
+    end
+    return _util.seek_parent_object_by_tag(node, tag)
+end
+
+
+--------------------------------------------------------------------------------------
+-- 通过路径设置图片
+-- @param image image组件
+-- @param path 资源路径 相对于Resources/
+-- @param set_native_size 是否使用原本大小
+-- @param callback 图片资源加载完毕的回调
+-- @param asset_lab ab标签名
+function base:load_image(image, path, set_native_size, callback, asset_lab, no_async)
+    _util.uloader.add_ref_map(image.gameObject, path, _util.uloader.IMAGE, asset_lab)
+    _util.uloader.load(path, _util.uloader.IMAGE, function (asset)
+        if asset then
+            if image == nil or image:IsNull() then
+                return
+            end
+            image.sprite = asset
+            if set_native_size then
+                image:SetNativeSize()
+            end
+            if type(callback) == "function" then
+                callback(asset)
+            end
+        else 
+            U.log.d("Load Image Faild", path)
+        end
+    end, asset_lab, no_async)
+    
+end
+
+--------------------------------------------------------------------------------------
+-- 通过路径设置rander图片
+-- @param rander rander组件
+-- @param path 资源路径 相对于Resources/
+-- @param set_native_size 是否使用原本大小
+-- @param callback 图片资源加载完毕的回调
+-- @param asset_lab ab标签名
+function base:load_image_rander(rander, path, set_native_size, callback, asset_lab)
+    _util.uloader.add_ref_map(rander.gameObject, path, _util.uloader.IMAGE, asset_lab)
+    _util.uloader.load(path, _util.uloader.IMAGE, function (asset)
+        if asset then
+            if rander == nil or rander:IsNull() then
+                return
+            end
+            rander.sprite = asset
+            if type(callback) == "function" then
+                callback(asset)
+            end
+        else 
+            U.log.d("Load Image Faild", path)
+        end
+    end, asset_lab)
+end
+
+-- 绑定函数
+local binders = {
+    -- 值改变组件
+    {
+        components	= {"Toggle", "Slider", "ScrollRect","InputField", "Dropdown"},
+        listener	= "onValueChanged",
+        suffix		= "value_changed",
+    },
+
+    -- 输入框
+    {
+        components  = {"InputField",},
+        listener    = "onEndEdit",
+        suffix		= "end_edit", 
+    },
+
+    -- 按钮
+    {
+        components  = {"Button",},
+        listener    = "onClick",
+        suffix		= "click", 
+    },
+
+    -- 拖拽事件
+    {
+        components  = {"Drag",},
+        listener    = "onDragBegin",
+        suffix		= "begin", 
+    },
+    {
+        components  = {"Drag",},
+        listener    = "onDrag",
+        suffix		= "drag", 
+    },
+    {
+        components  = {"Drag",},
+        listener    = "onDragEnd",
+        suffix		= "end", 
+    },
+
+    -- 点击事件
+    {
+        components  = {"Click",},
+        listener    = "onClickDown",
+        suffix		= "down", 
+    },
+    {
+        components  = {"Click",},
+        listener    = "onClickUp",
+        suffix		= "up", 
+    },
+}
+
+for _, binder in ipairs(binders) do 
+    for _, com_name in ipairs(binder.components) do 
+        local fun_name = string.format("bind_%s_%s", com_name, binder.suffix)
+        fun_name = string.lower(fun_name)
+        
+        base[fun_name] = function (self, ...)
+            local node, name, fun, sound = ...
+            -- if select("#", ...) == 2 then
+            if type(node) ~= type(self.gameObject) then
+                name, fun, sound = ...
+                node = self.gameObject
+            end
+            local component = _util.seek_component(node, name, com_name)
+            if component then
+                component[binder.listener]:AddListener(function (...)
+                    fun(...)
+                    if _util.common_sound_func then
+                        _util.common_sound_func(sound, node, name, com_name)
+                    end
+                end)
+            else 
+                U.log.w(2, string.format("can't bind component %s[%s]", tostring(name), tostring(com_name)))
+            end
+            return component
+        end
+    end	
+end
+
+--------------------------------------------------------------------------------------
+-- 特殊的binder
+local _type_media_player = typeof(CS.Flz.Media.MediaPlayer)
+local _type_animator_behaviour = typeof(CS.Flz.UI.AniBehaviour)
+base["bind_media_event"] = function (self, name, fun)
+    local component = _util.seek_component(self.gameObject, name, _type_media_player)
+    if component then
+        component:mEvent("+", fun)
+    else
+        U.log.w("No media player find")
+    end
+    return component
+end
+
+base["bind_animator_event"] = function (self, name, fun)
+    local component = _util.seek_component(self.gameObject, name, _type_animator_behaviour)
+    if component then
+        component.eventFunc = fun
+    else
+        U.log.w("No animator find")
+    end
+    return component
+end
+
+return {
+    base = base,
+    init = init,
+}

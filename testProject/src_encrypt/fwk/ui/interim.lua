@@ -1,1 +1,135 @@
-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
+local _M = {}
+
+function _M:init()
+    self.interim_canvas = CS.UnityEngine.GameObject.Find("interim_canvas")
+    if self.interim_canvas then
+        local root = CS.UnityEngine.GameObject("interim_image")
+        local rt = root:AddComponent(typeof(CS.UnityEngine.RectTransform))
+        rt.offsetMax = CS.UnityEngine.Vector2(0, 0)
+        rt.offsetMin = CS.UnityEngine.Vector2(0, 0)
+        rt.anchorMin = CS.UnityEngine.Vector2(0, 0)
+        rt.anchorMax = CS.UnityEngine.Vector2(1, 1)
+        rt.sizeDelta = CS.UnityEngine.Vector2(0, 0)
+        root.transform:SetParent(self.interim_canvas.transform, false)
+        local image = root:AddComponent(typeof(CS.UnityEngine.UI.Image))
+        local canvasGroup = root:AddComponent(typeof(CS.UnityEngine.CanvasGroup))
+        image.gameObject:SetActive(false)
+        image.color = {r = 0, g = 0, b = 0, a = 0}
+        canvasGroup.alpha = 0
+        self.interim_image = image
+        self.interim_canvasGroup = canvasGroup
+        self.interim_param = nil
+    end
+end
+
+function _M:update(dt)
+    if self.interim_param then
+        U.log.dump(self.interim_param)
+        if self.interim_param.mode == "show" then
+            self.interim_param.t = self.interim_param.t - dt
+            if self.interim_param.t <= 0 then
+                if self._content then
+                    self._content.gameObject:SetActive(true)
+                end
+                -- self.interim_image.color = {r = 0, g = 0, b = 0, a = 1}
+                if self.interim_param.duration == 0 then
+                    self.interim_canvasGroup.alpha = 0
+                else
+                    self.interim_canvasGroup.alpha = 1
+                end
+                local func = self.interim_param.func
+                self.interim_param = nil
+                if func then
+                    func()
+                end
+            else
+                self.interim_canvasGroup.alpha = (self.interim_param.duration - self.interim_param.t)/self.interim_param.duration
+                -- self.interim_image.color = {r = 0, g = 0, b = 0, a = (self.interim_param.duration - self.interim_param.t)/self.interim_param.duration}
+            end
+        elseif self.interim_param.mode == "hide" then
+            self.interim_param.t = self.interim_param.t - dt
+            if self.interim_param.t <= 0 then
+                self.interim_canvasGroup.alpha = 0
+                -- self.interim_image.color = {r = 0, g = 0, b = 0, a = 0}
+                local func = self.interim_param.func
+                self.interim_param = nil
+                if func then
+                    func()
+                end
+                self.interim_image.gameObject:SetActive(false)
+            else
+                self.interim_canvasGroup.alpha = self.interim_param.t/self.interim_param.duration
+                -- self.interim_image.color = {r = 0, g = 0, b = 0, a = self.interim_param.t/self.interim_param.duration}
+            end
+        end
+    end
+end
+
+function _M:show(param)
+    param = param or {}
+    if self.interim_canvas then
+        -- 如果有别的任务处理，暂时直接回调。
+        if self.interim_param then
+            if param.func then
+                param.func()
+            end
+            return
+        end
+
+        if self._content then
+            self._content.gameObject:SetActive(false)
+        end
+        self.interim_image.gameObject:SetActive(true)
+        local duration  = param.duration or 0
+        self.interim_param = {
+            mode = "show",
+            duration = duration,
+            t = duration,
+            func = param.func,
+        }
+    else
+        if param.func then
+            param.func()
+        end
+    end
+end
+
+function _M:hide(param)
+    param = param or {}
+    if self.interim_canvas then
+        -- 如果有别的任务处理，暂时直接回调。
+        if self.interim_param then
+            if param.func then
+                param.func()
+            end
+            return
+        end
+
+        if self._content then
+            self._content.gameObject:SetActive(false)
+        end
+        local duration  = param.duration or 0
+        self.interim_param = {
+            mode = "hide",
+            duration = duration,
+            t = duration,
+            func = param.func,
+        }
+    else
+        if param.func then
+            param.func()
+        end
+    end
+end
+
+function _M:set_interim_panel(content)
+    if self.interim_canvas and content then
+        if self._content then
+            CS.UnityEngine.GameObject.Destroy(self._content.gameObject)
+        end
+        content.transform:SetParent(self.interim_image.transform)
+        self._content = content
+    end
+end
+
+return _M

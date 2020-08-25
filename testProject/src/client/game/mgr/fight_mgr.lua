@@ -37,6 +37,33 @@ function _MGR:update(dt)
         if self.fight_time <= 0 then
             self:fight_end()
         end
+
+        -- 背景布移动
+        if self.move_panel_list then
+            local base_canvas = UI.get_canvas("base_canvas")
+            local rt = UI.seek_component(base_canvas, base_canvas.name, "RectTransform")
+
+            for k, v in pairs(self.move_panel_list) do
+                local pos_y = v.transform.localPosition.y
+
+                if pos_y - dt * self.bg_speed < -rt.sizeDelta.y then
+                    -- 这里是解决Update移动后，累加的差值，光是那样的判断会造成一些精细的差值没计算到位
+                    local leop = -rt.sizeDelta.y - pos_y - dt * self.bg_speed
+
+                    v.transform.localPosition = {
+                        x = v.transform.localPosition.x,
+                        y = rt.sizeDelta.y + leop,
+                        z = v.transform.localPosition.z
+                    }
+                else
+                    v.transform.localPosition = {
+                        x = v.transform.localPosition.x,
+                        y = v.transform.localPosition.y - dt * self.bg_speed,
+                        z = v.transform.localPosition.z
+                    }
+                end
+            end
+        end
     end
 
     self.time_obj.text = self.fight_time
@@ -48,18 +75,17 @@ function _MGR:init(param)
     self.fight_value = 0
     self.time_temp = 0
     self.fight_item_time = 0
+    self.bg_speed = 500
     self.load_item_list = {}
 
     self.time_obj = param.time_obj
     self.level_obj = param.level_obj
     self.monster_pos = param.monster_pos
     self.move_panel_list = param.move_panel_list
+
 end
 
 function _MGR:fight_start()
-    -- 滚动背景布
-    self:init_move_bg()
-
     -- 初始化怪物
     self:init_all_enmey()
 end
@@ -99,15 +125,6 @@ function _MGR:init_all_enmey()
     self.load_item_time = 1.5
 
     self.state = "fight_start"
-end
-
--- 背景布滚动
-function _MGR:init_move_bg()
-    for i = 1, 2 do
-        
-        -- local pos = self.move_panel_list[i].transform
-
-    end
 end
 
 function _MGR:load_enemy_item()

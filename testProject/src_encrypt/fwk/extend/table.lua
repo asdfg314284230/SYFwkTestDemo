@@ -1,1 +1,180 @@
-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
+--[[
+
+Copyright (c) 2015 gameboxcloud.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+]]
+
+local string_format = string.format
+local pairs = pairs
+
+local ok, table_new = pcall(require, "table.new")
+if not ok or type(table_new) ~= "function" then
+    function table:new()
+        return {}
+    end
+end
+
+local _copy
+_copy = function(t, lookup)
+    if type(t) ~= "table" then
+        return t
+    elseif lookup[t] then
+        return lookup[t]
+    end
+    local n = {}
+    lookup[t] = n
+    for key, value in pairs(t) do
+        n[_copy(key, lookup)] = _copy(value, lookup)
+    end
+    return n
+end
+
+function table.copy(t)
+    local lookup = {}
+    return _copy(t, lookup)
+end
+
+function table.keys(hashtable)
+    local keys = {}
+    for k, v in pairs(hashtable) do
+        keys[#keys + 1] = k
+    end
+    return keys
+end
+
+function table.values(hashtable)
+    local values = {}
+    for k, v in pairs(hashtable) do
+        values[#values + 1] = v
+    end
+    return values
+end
+
+function table.merge(dest, src)
+    for k, v in pairs(src) do
+        dest[k] = v
+    end
+end
+
+function table.map(t, fn)
+    local n = {}
+    for k, v in pairs(t) do
+        n[k] = fn(v, k)
+    end
+    return n
+end
+
+function table.walk(t, fn)
+    for k,v in pairs(t) do
+        fn(v, k)
+    end
+end
+
+function table.filter(t, fn)
+    local n = {}
+    for k, v in pairs(t) do
+        if fn(v, k) then
+            n[k] = v
+        end
+    end
+    return n
+end
+
+function table.length(t)
+    local count = 0
+    for _, __ in pairs(t) do
+        count = count + 1
+    end
+    return count
+end
+
+function table.readonly(t, name)
+    name = name or "table"
+    setmetatable(t, {
+        __newindex = function()
+            error(string_format("<%s:%s> is readonly table", name, tostring(t)))
+        end,
+        __index = function(_, key)
+            error(string_format("<%s:%s> not found key: %s", name, tostring(t), key))
+        end
+    })
+    return t
+end
+
+--array会被改变
+function table.random_shuffle(array)
+    local size = #array
+    local randomArray = {}
+    for i=1,size do
+        local randomV = math.random(1, size + 1 - i)
+        table.insert(randomArray, array[randomV])
+        array[randomV] = array[size + 1 - i]
+    end
+    return randomArray
+end
+
+function table.array_to_hash(t)
+    local n = #t
+    -- print("n = ", n)
+    local h = table_new(0, n / 2)
+    for i = 1, n, 2 do
+        h[t[i]] = t[i + 1]
+    end
+    return h
+end
+
+local _read_only_mt = {
+    __newindex = function (...)
+        error("table is read only!", 1)
+    end
+}
+function table.set_read_only(tab)
+    return setmetatable(tab, _read_only_mt)
+end
+
+function table.spairs(tab, sort_fun)
+    local keys = table.keys(tab)
+    table.sort(keys, sort_fun)
+    local index = 1
+    return function ()
+        while index <= #keys do         -- 遍历找到一个非空的值，根据lua原生的定义，遍历过程中不能加新的元素
+            local k = keys[index]
+            index = index + 1
+            if tab[k] then
+                return k, tab[k]
+            end
+        end
+        return nil, nil
+    end, keys, nil
+end
+spairs = table.spairs
+--[[
+-- test
+    local td = {a = 1, b = 2, c = 3}
+    for k, v in pairs(td) do 
+        print(k, v)
+    end
+    for k, v in spairs(td) do 
+        print(k, v)
+    end
+--]]
+
+return table

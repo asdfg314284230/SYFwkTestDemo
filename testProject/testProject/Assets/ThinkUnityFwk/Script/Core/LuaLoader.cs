@@ -53,7 +53,7 @@ namespace SYFwk.Core
             }
             else if(sLoadMode == LoadMode.LM_DEV)
             {
-                string[] fwk = { "fwk", Path.Combine(UnityEngine.Application.dataPath, "../../src_encrypt/"), "1" };
+                string[] fwk = { "fwk", Path.Combine(UnityEngine.Application.dataPath, "../../src_encrypt/"), "0" };
                 string[] network = { "network", Path.Combine(UnityEngine.Application.dataPath, "../../src/server/script/src"), "0" };
                 string[] game = { "game", Path.Combine(UnityEngine.Application.dataPath, "../../src/client/"), "0" };
                 string[] config = { "config", Path.Combine(UnityEngine.Application.dataPath, "../../src/client/"), "0" };

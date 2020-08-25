@@ -1,1 +1,229 @@
-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
+--------------------------------------------------------------------------------------
+-- 工具类
+-- @module U.log
+-- @author Yang Zhang
+-- @copyright yang zhang 2018
+-- @date 2018-03-15
+--------------------------------------------------------------------------------------
+
+-- @table log
+local log = {}
+local debug_traceback = debug.traceback
+
+local _real_print       = print
+local _lvl_print        = _real_print
+local _lvl_dump_print   = _real_print             -- 专门为dump写的print函数
+
+local _mt = {
+	__call = function (self, ...)
+		local traceback = string.split(debug_traceback("", 2), "\n")
+		_lvl_print("d", "[" .. string.trim(traceback[2]).."]", ...)
+    end,
+}
+setmetatable(log, _mt)
+
+for _, v in ipairs({"d", "i", "w", "e"}) do 
+	local _create_logger = function (lvl)
+		return function (...)
+			local traceback = string.split(debug_traceback("", 2), "\n")
+			_lvl_print(lvl, "[" .. string.trim(traceback[2]).."]", ...)
+		end
+	end
+	log[v] = _create_logger(v)
+end
+
+--------------------------------------------------------------------------------------
+-- @function dump
+local function _dump_value(v)
+    if type(v) == "string" then
+        v = "\"" .. v .. "\""
+    end
+    return tostring(v)
+end
+
+local function _dump_trackback (traceback)
+    return "dump from: " .. string.trim(traceback[2])
+end
+
+local function dump (value, desciption, nesting, _print, costom_pairs)
+    if type(nesting) ~= "number" then nesting = 5 end
+    _print = _print or _lvl_dump_print
+
+    
+    local pairs = costom_pairs or pairs
+
+    local lookup = {}
+    local result = {}
+    -- local traceback = string.split(debug_traceback("", 2), "\n")
+    -- table.insert(result, (_dump_trackback(traceback)))
+
+    local function _dump(value, desciption, indent, nest, keylen)
+        desciption = desciption or "<var>"
+        local spc = ""
+        if type(keylen) == "number" then
+            spc = string.rep(" ", keylen - string.len(_dump_value(desciption)))
+        end
+        if type(value) ~= "table" then
+            result[#result +1 ] = string.format("%s%s%s = %s", indent, _dump_value(desciption), spc, _dump_value(value))
+        elseif lookup[tostring(value)] then
+            result[#result +1 ] = string.format("%s%s%s = *REF*", indent, _dump_value(desciption), spc)
+        else
+            lookup[tostring(value)] = true
+            if nest > nesting then
+                result[#result +1 ] = string.format("%s%s = *MAX NESTING*", indent, _dump_value(desciption))
+            else
+                result[#result +1 ] = string.format("%s%s = {", indent, _dump_value(desciption))
+                local indent2 = indent.."    "
+                local keys = {}
+                local keylen = 0
+                local values = {}
+                for k, v in pairs(value) do
+                    keys[#keys + 1] = k
+                    local vk = _dump_value(k)
+                    local vkl = string.len(vk)
+                    if vkl > keylen then keylen = vkl end
+                    values[k] = v
+                end
+                table.sort(keys, function(a, b)
+                    if type(a) == "number" and type(b) == "number" then
+                        return a < b
+                    else
+                        return tostring(a) < tostring(b)
+                    end
+                end)
+                for i, k in ipairs(keys) do
+                    _dump(values[k], k, indent2, nest + 1, keylen)
+                end
+                result[#result +1] = string.format("%s}", indent)
+            end
+        end
+    end
+    _dump(value, desciption, "- ", 1)
+    local traceback = string.split(debug_traceback("", 2), "\n")
+    _print(traceback[2], result[1],table.concat(result, "\r\n", 2))
+end
+
+--------------------------------------------------------------------------------------
+-- 打印
+-- @param value 需要打印的值
+-- @param desciption 打印描述
+-- @param nesting 打印table的层级
+-- @param _print 自定义输出函数
+-- @function mdump
+local function mdump(value, desciption, nesting, _print)
+    dump(value, desciption, nesting, _print, M.mpairs)
+end
+log.dump = dump
+log.mdump = mdump
+
+local init = function (mode, cfg)
+	if mode == "console" then
+		local _color_print = nil
+		local ok, zz_log = pcall(require, "zz.log")
+		if ok then
+			_color_print = zz_log.print
+		else
+			_color_print = function (color, ...)
+				_real_print(...)
+			end
+		end
+		local _color = {
+			d = 0x08,
+			i = 0x01,
+			w = 0x06,
+			e = 0x0d,
+		}
+		_lvl_print = function (lvl, ...)
+			local len = select("#", ...)
+			local ret = {}
+			for i = 1, len do 
+				table.insert(ret, tostring(select(i, ...)))
+			end
+			_color_print(_color[lvl], table.concat( ret, "\t" ))
+		end
+    elseif mode == "unity" and cfg.editor then
+        _dump_trackback = function (traceback)
+            return "dump from: " .. string.trim(traceback[2]) .. "</color>\r\n<color=#D670D6>"
+        end
+
+		local _template = {
+			-- d = {"<color=#666666>", "", "</color>"},
+			-- i = {"<color=#2065C8>", "", "</color>"},
+			-- w = {"<color=#F3C81C>", "", "</color>"},
+            -- e = {"<color=#D670D6>", "", "</color>"},
+            
+            d = {"<color=#000000>", "", "</color>"},
+			i = {"<color=#0095FF>", "", "</color>"},
+			w = {"<color=#F3C81C>", "", "</color>"},
+			e = {"<color=#D670D6>", "", "</color>"},
+		}
+		local _DATA_INDEX = 2
+		_lvl_print = function (lvl, ...)
+			local len = select("#", ...)
+			local ret = {}
+			for i = 1, len do 
+				table.insert(ret, tostring(select(i, ...)))
+			end
+			_template[lvl][_DATA_INDEX] = table.concat(ret, "\t")
+			_real_print(table.concat( _template[lvl]))
+        end
+        
+        _lvl_dump_print = function (log_trace, log_desc, log_text)
+            local d = {
+                string.format("<color=#519A59FF>Dump from %s</color>", log_trace),
+                string.format("<color=#519A59FF>%s</color>", log_desc),
+                string.format("<color=#519A59FF>%s</color>", log_text),
+            }
+            _real_print(table.concat(d, "\r\n"))
+        end
+	end
+
+	print = log		-- Global value
+end
+
+
+-- 框架调用这个函数，函数的返回值为对外导出函数列表
+return function (util)
+    util.log = log
+    return {
+		init = init,
+	}
+end
+
+--[[
+# Windows CMD命令行 字体颜色定义 text colors
+FOREGROUND_BLACK = 0x00 # black.
+FOREGROUND_DARKBLUE = 0x01 # dark blue.
+FOREGROUND_DARKGREEN = 0x02 # dark green.
+FOREGROUND_DARKSKYBLUE = 0x03 # dark skyblue.
+FOREGROUND_DARKRED = 0x04 # dark red.
+FOREGROUND_DARKPINK = 0x05 # dark pink.
+FOREGROUND_DARKYELLOW = 0x06 # dark yellow.
+FOREGROUND_DARKWHITE = 0x07 # dark white.
+FOREGROUND_DARKGRAY = 0x08 # dark gray.
+FOREGROUND_BLUE = 0x09 # blue.
+FOREGROUND_GREEN = 0x0a # green.
+FOREGROUND_SKYBLUE = 0x0b # skyblue.
+FOREGROUND_RED = 0x0c # red.
+FOREGROUND_PINK = 0x0d # pink.
+FOREGROUND_YELLOW = 0x0e # yellow.
+FOREGROUND_WHITE = 0x0f # white.
+
+
+# Windows CMD命令行 背景颜色定义 background colors
+BACKGROUND_BLUE = 0x10 # dark blue.
+BACKGROUND_GREEN = 0x20 # dark green.
+BACKGROUND_DARKSKYBLUE = 0x30 # dark skyblue.
+BACKGROUND_DARKRED = 0x40 # dark red.
+BACKGROUND_DARKPINK = 0x50 # dark pink.
+BACKGROUND_DARKYELLOW = 0x60 # dark yellow.
+BACKGROUND_DARKWHITE = 0x70 # dark white.
+BACKGROUND_DARKGRAY = 0x80 # dark gray.
+BACKGROUND_BLUE = 0x90 # blue.
+BACKGROUND_GREEN = 0xa0 # green.
+BACKGROUND_SKYBLUE = 0xb0 # skyblue.
+BACKGROUND_RED = 0xc0 # red.
+BACKGROUND_PINK = 0xd0 # pink.
+BACKGROUND_YELLOW = 0xe0 # yellow.
+BACKGROUND_WHITE = 0xf0 # white.
+]]

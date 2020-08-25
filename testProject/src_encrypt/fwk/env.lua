@@ -1,1 +1,98 @@
-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
+--------------------------------------------------------------------------------------
+-- 模块环境
+-- 为了方便修改，这些单独放入一个文件中，没有放入各个组件模块中
+-- @module flz.env
+-- @author liuyang
+-- @date 2019-01-24
+-- @local
+--------------------------------------------------------------------------------------
+
+---
+-- @table evn
+local env = {}
+
+-- 通用, 所有模块共享
+env.common = {
+    print = print,
+    math = math,
+    type = type,
+    table = table,
+    string = string,
+    pairs = pairs,
+    ipairs = ipairs,
+    tostring = tostring,
+    tonumber = tonumber,
+    os = os,
+    io = io,
+    debug = debug,
+    pcall = pcall,
+}
+setmetatable(env.common, {
+    __index = function (obj, key)
+        error(string.format("DON'T ACCESS NO DEFINED GLOBAL VALUE %s", tostring(key)), 2)
+    end,
+})
+-- UI模块
+env.ui = {}
+--
+env.model = {}
+--
+env.logic = {}
+
+env.mgr = {}
+
+env.ls = {}
+
+local _mt_common = {
+    __index = env.common,
+    __newindex = function (obj, key, value)
+        error(string.format("DON'T DEFINE GLOBAL VALUE %s", tostring(key)), 2)
+    end,
+}
+
+-- 这里会延后调用，require这个模块时，部分全局变量还没有赋值
+local function init()
+    env.common.U    = assert(U)
+    env.common.GU    = assert(GU)
+    env.common.Game = assert(Game)
+
+    env.mgr.UI = assert(UI)
+    env.mgr.M = assert(M)
+    env.mgr.MGR = assert(MGR)
+    env.mgr.C = assert(C)
+    env.mgr.L = assert(L)
+
+    env.logic.UI       = assert(UI)
+    env.logic.N = assert(N)
+    env.logic.NM = assert(NM)
+    env.logic.M = assert(M)
+    env.logic.C = assert(C)
+    env.logic.MGR        = assert(MGR)
+
+    env.ui.UI       = assert(UI)
+    env.ui.M        = assert(M)
+    env.ui.C       = assert(C)
+    env.ui.L        = assert(L)
+    env.ui.MGR        = assert(MGR)
+    env.ui.N        = assert(N)
+
+    env.model.C       = assert(C)
+    env.model.M       = assert(M)
+    -- env.model.UI       = assert(UI)
+    -- env.ui.NM        = assert(NM)
+    -- env.ls.LS       = assert(LS)
+    -- env.ls.NM       = assert(NM)
+    -- env.ls.M       = assert(M)
+    
+    setmetatable(env.ui,    _mt_common)
+    setmetatable(env.model, _mt_common)
+    setmetatable(env.logic, _mt_common)
+    setmetatable(env.mgr, _mt_common)
+    -- setmetatable(env.ls, _mt_common)
+    
+end
+
+return {
+    init = init,
+    env = env,
+}

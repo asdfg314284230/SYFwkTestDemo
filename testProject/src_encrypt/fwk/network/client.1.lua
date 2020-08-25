@@ -1,1 +1,184 @@
-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
+local client = {}
+client.__index = client
+local proto 	    = require "fwk.network.proto"
+local socket_auth 	    = require "fwk.network.socket_auth"
+local socket_game 	    = require "fwk.network.socket_game"
+
+local ping_time = 20
+
+local ping = 0
+local push = 1
+local request = 2
+
+local OPT_STR_DATA           = string.pack("BB", 1, 0) 
+local OPT_STR_PING           = string.pack("BB", 2, 0)
+local OPT_STR_COMPRESS_DATA  = string.pack("BB", 3, 0)
+local OPT_STR_CMD            = string.pack("BB", 5, 0)
+local OPT_STR_DATA_SUB_BEGIN = string.pack("BB", 6, 0)
+local OPT_STR_DATA_SUB       = string.pack("BB", 7, 0)
+local OPT_STR_DATA_SUB_END   = string.pack("BB", 8, 0)
+
+-- 创建新的对象
+function client.create(mmodel, cb)
+    local obj = {
+        _mmodel = mmodel,
+        _cb = cb,
+        _session = 0,
+        _socket_game = nil,
+        _is_handshake = false,
+        _last_send_time = os.time(),
+        _queue = {},
+    }
+
+    return setmetatable(obj, client)
+end
+
+function client:update()
+    socket_game.update()
+    if os.time() - self._last_send_time > ping_time then
+        self:send_ping()
+    end
+end
+
+function client:open(param)
+    param = param or {}
+    local auth_host = param.auth_host
+    local auth_port = param.auth_port
+    local game_host = param.game_host
+    local game_port = param.game_port
+    local player_id = param.player_id
+    local state, subid, secret = socket_auth.open(auth_host, auth_port, player_id)
+    -- print(state, subid, secret)
+    if state == 0 then
+        self._socket_game = socket_game.open(game_host, game_port, function(cmd, socket, ...)
+            if cmd == "open" then
+                socket:handshake()
+            elseif cmd == "close" then
+                U.log.w("网络断开")
+            elseif cmd == "handshake" then
+                local state = ...
+                if state == "200" then
+                    self._is_handshake = true
+                    -- self:send_request_push()
+                    for k, v in pairs(self._queue) do
+                        self:send_request(v)
+                    end
+                    self._queue = {}
+                else
+                    self._is_handshake = false
+                    U.log.e("handshake fail state:" .. tostring(state))
+                end
+            elseif cmd == "package" then
+                local package = ...
+                
+                self:package(package)
+
+                -- local len = string.len(package)
+                -- U.log.i(len)
+                -- local op, op_id, msg_id, msg, ok, session = string.unpack(">c2I2I2c" .. len - 2 - 4 - 5 .. "BI4", package)
+                -- U.log.i(op, op_id, msg_id, msg, ok, session)
+                -- U.log.i(op_id , push)
+                -- if op_id == ping then
+                -- elseif op_id == push then
+                --     -- self:send_request_push()
+                --     self._cb.push(msg)
+                -- elseif op_id == request then
+                --     self._cb.message(op_id, msg_id, msg)
+                -- else
+                --     U.log.e("unknown op_id:" .. tostring(op_id))
+                -- end
+            end
+        end, player_id, subid, secret)
+    end
+end
+
+function client:process_data(package)
+    local len = string.len(package)
+    local op_id, msg_id, msg, ok, session = string.unpack(">I2I2c" .. len - 4 - 5 .. "BI4", package)
+    if op_id == ping then
+    elseif op_id == push then
+        self._cb.push(msg)
+    elseif op_id == request then
+        self._cb.message(op_id, msg_id, msg)
+    else
+        U.log.e("unknown op_id:" .. tostring(op_id))
+    end
+end
+
+function client:package(package)
+    -- local opt, op_id, msg_id, msg, ok, session = string.unpack(">c2I2I2c" .. len - 2 - 4 - 5 .. "BI4", package)
+    local opt = string.sub(package, 1, 2)
+    if opt == OPT_STR_PING then
+
+    elseif opt == OPT_STR_COMPRESS_DATA or opt == OPT_STR_DATA then
+        self:process_data(string.sub(package, 3))
+    elseif opt == OPT_STR_DATA_SUB_BEGIN then
+        self._sub_data_cache = {
+            [1] = string.sub(package, 3)
+        }
+    elseif opt == OPT_STR_DATA_SUB then
+        if self._sub_data_cache then
+            table.insert(self._sub_data_cache, string.sub(package, 3))
+        end
+    elseif opt == OPT_STR_DATA_SUB_END then
+        if self._sub_data_cache then
+            table.insert(self._sub_data_cache, string.sub(package, 3))
+            local msg = table.concat(self._sub_data_cache)
+            self:process_data(msg)
+            self._sub_data_cache = nil
+        end        
+    else
+        print("recv unknown op ", opt)
+    end  
+end
+
+
+
+function client:send_request(param)
+    if not self._is_handshake then
+        table.insert(self._queue, param)
+    else
+        param = param or {}
+        self._session = self._session + 1
+        local message_info = param.message_info
+        local message_data = param.message_data 
+
+        local msg_id = message_info.id
+        local msg = nil
+        if message_info.pb == "NULL" then
+            msg = U.json.encode(message_data)
+        elseif message_info.pb ~= nil then
+            msg = proto.encode(message_info.pb, message_data)
+        end
+
+        local size = #msg + 2 + 2 + 4
+        local package = string.pack(">I2", size)..string.pack(">I2", request)..string.pack(">I2", msg_id)..msg..string.pack(">I4", self._session)
+        self:send(package)
+    end
+end
+
+-- function client:send_request_push()
+--     U.log.i("send_request_push")
+--     self._session = self._session + 1
+-- 	local size = 2 + 2 + 4
+-- 	local package = string.pack(">I2", size)..string.pack(">I2", push)..string.pack(">I2", 0)..string.pack(">I4", self._session)
+--     self:send(package)
+-- end
+
+function client:send_ping()
+    self._session = self._session + 1
+	local size = 2 + 2 + 4
+	local package = string.pack(">I2", size)..string.pack(">I2", ping)..string.pack(">I2", 0)..string.pack(">I4", self._session)
+    self:send(package)
+end
+
+function client:send(package)
+    self._last_send_time = os.time()
+    if self._socket_game then
+        self._socket_game:send(package)
+    else
+        U.log.e("socket_game not init")
+    end
+end
+
+return client

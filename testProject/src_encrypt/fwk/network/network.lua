@@ -1,1 +1,238 @@
-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
+--------------------------------------------------------------------------------------
+-- 网络模块
+-- @module N
+-- @author liuyang
+-- @date 2019-02-28
+--------------------------------------------------------------------------------------
+local proto = require "fwk.network.proto"
+local socket_core = require "socket.core"
+local _net_fwk = {}
+local _net_user = {}
+local _msg_handler = {}
+local _msg_err_handler = {}
+local _msg_handler_ex = {}
+
+local message 	    = require "fwk.network.message"
+local client 	    = require "fwk.network.client"
+
+local cur_client = nil
+local mmodel = nil
+local _cfg = nil
+
+local net_callback = {}
+
+local client_handle = {
+    message = function(op_id, msg_id, msg, session, session_data)
+        local nm_info = NMINFO[msg_id]
+        if nm_info then
+            local data = proto.decode("B2C_COMMON", msg)
+
+            if data.t then
+                mmodel.set_offset_time(data.t - os.time())
+                mmodel.set_offset_precise_time(data.precise_t - socket_core.gettime())
+            end
+
+            local e = data.e
+            if e ~= EC.OK then
+                UI.show_tips(EC:toString(e))
+                if _msg_err_handler[nm_info.name] then
+                    _msg_err_handler[nm_info.name](m, session_data)
+                end
+            else
+                local m = U.json.decode(data.m)
+                if nm_info.nm_type == "INITDATA" then
+                    mmodel.reset_data(m.d)
+                end
+    
+                if data.change_tab then
+                    mmodel.update_data(data.change_tab, session_data)
+                end
+    
+                local func = _msg_handler[nm_info.name]
+                if func then
+                    func(m, session_data)
+                end
+            end
+
+            if _msg_handler_ex[nm_info.name] then
+                _msg_handler_ex[nm_info.name](m, session_data)
+            end
+        else
+            UI.show_tips("unknow msg_id:" .. tostring(msg_id))
+            U.log.e("unknow msg_id:" .. tostring(msg_id))
+        end
+    end,
+    push = function(op_id, msg_id, msg, session, session_data)
+        -- local data = U.json.decode(msg)
+        -- U.log.dump(data)
+        U.log.i(op_id, msg_id, msg)
+        local nm_info = NMINFO[msg_id]
+        if nm_info then
+            local data = proto.decode("B2C_COMMON", msg)
+            U.log.dump(data)
+            if data.t then
+                mmodel.set_offset_time(data.t - os.time())
+                mmodel.set_offset_precise_time(data.precise_t - socket_core.gettime())
+            end
+
+            local e = data.e
+            if e ~= EC.OK then
+                U.log.i(e, EC:toString(e))
+                UI.show_tips(EC:toString(e))
+                return
+            end
+            
+            local m = U.json.decode(data.m)
+            if nm_info.nm_type == "INITDATA" then
+                mmodel.reset_data(m.d)
+            end
+
+            if data.change_tab then
+                mmodel.update_data(data.change_tab, session_data)
+            end
+
+            local func = _msg_handler[nm_info.name]
+            if func then
+                func(m)
+            end
+        else
+            UI.show_tips("unknow msg_id:" .. tostring(msg_id))
+            U.log.e("unknow msg_id:" .. tostring(msg_id))
+        end
+    end,
+
+    ----------------------net_callback-------------------------
+    on_process_data = function(session)
+        UI.net_mask_on_process_data(session)
+        local f = net_callback["on_process_data"]
+        if f then
+            f(session)
+        end
+    end,
+
+    on_send_request = function(session)
+        UI.net_mask_on_send_request(session)
+        local f = net_callback["on_send_request"]
+        if f then
+            f(session)
+        end
+    end,
+
+    kick = function()
+        UI.net_mask_reset()
+        local f = net_callback["kick"]
+        if f then
+            f()
+        end
+    end,
+    -- reconnection = function()
+    --     UI.net_mask_reset()
+    --     local f = net_callback["reconnection"]
+    --     if f then
+    --         f()
+    --     end
+    -- end,
+    auth_fail = function (state)
+        UI.net_mask_reset()
+        local f = net_callback["auth_fail"]
+        if f then
+            f(state)
+        end
+    end,
+    close = function ()
+        UI.net_mask_reset()
+        local f = net_callback["close"]
+        if f then
+            f()
+        end
+    end
+}
+
+
+function _net_fwk.init(mode, cfg, model)
+    mmodel = model
+    _cfg = cfg
+    message.init()
+    _net_user.NM = message.NM
+    _net_user.NMINFO = message.NMINFO
+    _net_user.EC = message.EC
+    return _net_user
+end
+
+function _net_fwk.update()
+    -- socket_game.update()
+    if cur_client then
+        cur_client:update()
+    end
+end
+
+function _net_user.init_proto()
+    -- _cfg .. "game/pb"
+    proto.init_proto(_cfg.root)
+    -- pb.loadfile(_cfg.root .. "game/pb/test.pb")
+    -- pb.loadfile(_cfg.root .. "game/pb/player.pb")
+end
+
+function _net_user.open(param)
+    cur_client = client.create(mmodel, client_handle)
+    cur_client:open(param, mmodel)
+end
+
+function _net_user.register_net_callback(key, func)
+    net_callback[key] = func
+end
+
+--------------------------------------------------------------------------------------
+-- 注册消息
+-- @function N.register
+-- @param mn[string]        NM.xxx xxx对应message中定义的消息名称
+-- @param handle[function]  收到消息后的回调函数 
+-- @see msg_handler
+function _net_user.register(mn, handler)
+    if not _msg_handler[mn.name] and type(handler) == "function" then
+        _msg_handler[mn.name] = handler
+    end 
+end
+
+function _net_user.register_err_handler(mn, handler)
+    if not _msg_err_handler[mn.name] and type(handler) == "function" then
+        _msg_err_handler[mn.name] = handler
+    end 
+end
+
+function _net_user.register_handler_ex(mn, handler)
+    if not _msg_handler_ex[mn.name] and type(handler) == "function" then
+        _msg_handler_ex[mn.name] = handler
+    end 
+end
+
+--------------------------------------------------------------------------------------
+-- 发送消息
+-- @function N.send
+function _net_user.send(param)
+    param = param or {}
+    if cur_client then
+        cur_client:send_request(param)
+    else
+        U.log.e("client not init")
+    end
+end
+
+
+function _net_user.close_game_socket()
+    if cur_client then
+        cur_client:close_game_socket()
+    else
+        U.log.e("client not init")
+    end
+end
+
+
+-- function _net_user.event(cb)
+
+-- end
+
+return {
+    init = _net_fwk.init,
+    update = _net_fwk.update,
+}

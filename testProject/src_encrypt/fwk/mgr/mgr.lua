@@ -1,1 +1,99 @@
-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
+--------------------------------------------------------------------------------------
+-- MGR管理器
+-- @module MGR
+-- @author liuyang
+-- @copyright liuyang 2019
+-- @date 2019-02-28
+--------------------------------------------------------------------------------------
+local _env = nil
+local mgr = {}
+local _loaded = {}
+local _index_mt = {
+    __index = function (t, k)
+        return mgr.load(k)
+    end,
+    __newindex = function(t, k, v)
+        U.log(string.format("read only table k = [%s], v = [%s]", tostring(k), tostring(v)))
+    end,
+}
+
+--------------------------------------------------------------------------------------
+-- 初始化 框架调用
+-- @param env mgr环境
+-- @function L.init
+function mgr.init(mode, env)
+    _env = env
+    local export = {
+        -- 导出接口添加在这里
+
+        -- 注销接口
+        unload = mgr.unload,
+        logout = mgr.logout,
+    }
+    return setmetatable(export, _index_mt)
+end
+
+--------------------------------------------------------------------------------------
+--- 加载mgr
+-- @param name mgr名
+-- @return mgr或者nil
+-- @local
+function mgr.load(name)
+    if type(name) ~= "string" then
+        U.log(string.format("load mgr [%s] failed, string is needed but %s", tostring(name), type(name)))
+        return nil
+    end
+
+    -- 缓存
+    if _loaded[name] then
+        return _loaded[name]
+    end
+
+    -- 加载
+    local l_mgr = U.loader.load("game.mgr." .. name, _env)
+    if not l_mgr then
+        U.log(string.format("load mgr [%s] failed, mgr not found", tostring(name)))
+        return nil
+    end
+
+    U.log(string.format("load mgr [%s] success", tostring(name)))
+
+    _loaded[name] = l_mgr
+
+    if type(l_mgr.on_load) == "function" then
+        l_mgr:on_load()
+    end
+
+    return l_mgr
+end
+
+--------------------------------------------------------------------------------------
+--- 卸载mgr
+-- @param name mgr名
+-- @local
+function mgr.unload(name)
+    if _loaded[name] then
+        if type(_loaded[name].on_unload) == "function" then
+            _loaded[name]:on_unload()
+        end
+        _loaded[name] = nil
+    end
+end
+
+function mgr.unload_all()
+    for name, _ in pairs(_loaded) do
+        mgr.unload(name)
+    end
+end
+
+--------------------------------------------------------------------------------------
+-- 注销接口
+-- @function L.logout
+function mgr.logout()
+    mgr.unload_all()
+end
+
+
+return {
+    init = mgr.init,
+}

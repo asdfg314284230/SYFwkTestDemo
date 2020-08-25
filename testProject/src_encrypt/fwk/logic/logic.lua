@@ -1,1 +1,97 @@
-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
+--------------------------------------------------------------------------------------
+-- Logic管理器
+-- @module L
+-- @author liuyang
+-- @copyright liuyang 2019
+-- @date 2019-02-28
+--------------------------------------------------------------------------------------
+local _env = nil
+local logic = {}
+local _loaded = {}
+local _index_mt = {
+    __index = function (t, k)
+        return logic.load(k)
+    end,
+    __newindex = function(t, k, v)
+        U.log(string.format("read only table k = [%s], v = [%s]", tostring(k), tostring(v)))
+    end,
+}
+
+--------------------------------------------------------------------------------------
+-- 初始化 框架调用
+-- @param env logic环境
+-- @function L.init
+function logic.init(mode, env)
+    _env = env
+    local export = {
+        -- 导出接口添加在这里
+
+        -- 注销接口
+        logout = logic.logout,
+    }
+    return setmetatable(export, _index_mt)
+end
+
+--------------------------------------------------------------------------------------
+--- 加载logic
+-- @param name logic名
+-- @return logic或者nil
+-- @local
+function logic.load(name)
+    if type(name) ~= "string" then
+        U.log(string.format("load logic [%s] failed, string is needed but %s", tostring(name), type(name)))
+        return nil
+    end
+
+    -- 缓存
+    if _loaded[name] then
+        return _loaded[name]
+    end
+
+    -- 加载
+    local lgc = U.loader.load("game.logic." .. name, _env)
+    if not lgc then
+        U.log(string.format("load logic [%s] failed, logic not found", tostring(name)))
+        return nil
+    end
+
+    -- U.log(string.format("load logic [%s] success", tostring(name)))
+
+    _loaded[name] = lgc
+
+    if type(lgc.on_load) == "function" then
+        lgc:on_load()
+    end
+
+    return lgc
+end
+
+--------------------------------------------------------------------------------------
+--- 卸载logic
+-- @param name logic名
+-- @local
+function logic.unload(name)
+    if _loaded[name] then
+        if type(_loaded[name].on_unload) == "function" then
+            _loaded[name]:on_unload()
+        end
+        _loaded[name] = nil
+    end
+end
+
+function logic.unload_all()
+    for name, _ in pairs(_loaded) do
+        logic.unload(name)
+    end
+end
+
+--------------------------------------------------------------------------------------
+-- 注销接口
+-- @function L.logout
+function logic.logout()
+    logic.unload_all()
+end
+
+return {
+    init = logic.init
+}

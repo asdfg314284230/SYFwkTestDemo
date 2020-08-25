@@ -1,1 +1,39 @@
-7qzQ7zqVlrHAin+IDViKlCha8NlfIBkc3SWKiaw6UbkgTdWheQsAg6x9QqYQloJyedYADlImW9XrcQ93Bh9AESjywa9IP6ohxJrVlipqoLOUctY63QbZhK8r2RAHiolXjCHTjYxcxO5ky/ThK7xQ/hZyzS3yc6emAS+SYriW0YhDyQfhzoGHtLS2B7OQiKuGfVl7ItLtt1lTbhniBKEIMOT6ntFTJwXYPJkUErPbIMEYnsZOEl1u/ZD1chCFuEuLKHJRL1P8TXpZBP+6vANGLZeL/zes8rFaWWYkKEqpnI+QMv3q0YOb9gkeB3Sa2nowgYBJOFoNvLHcL764d6VO+8iaBg+K3CetZSAA4yt+iNtrPT2aAmLt0+IBTNXe9jWDP5KqTMV3zaf8X/ZuIMUQD9ctajwvtL2WmKJPGVe39k7akQRiyIINPHF0x57Egq0g2WzwhLLdlfxWEgiLn18xY7QDfALY4bnPKIJb4a2DyJda7hA6ntsIcyqiOL1M8K9xW0YJPKuj3bQZGCekuaNSt56+c69i07JfKIuKjIwWunv959uu2mS76QneZGCzahu/vMRF1kWEkuca3uKiHzM7yvg5EhPOsKwU0y6Q5Plzx24CooisxcyjkpFksUFaafXfQ3YOu607fa05GJ5BipV1tdDSyIv/Kl22mMqyJvB0TLKurNIkYAR9/zEntD+O+bBlY6c3PxJTjoKBEg3zrzCm3vaUOvagaKPeTRHfqg3JsT3yxvXnN6exQlxF7wA6dFUvMPhezERSBz2/WdieK1bMaQ1BYwQb3HX3o127UQhwbFOHKQ/IH03r1RXOl98T2cg04W/FCb44MZcAixQou3fLHZ6kDiXHXquNUC86EjUf5+mHJcCNA1ezSwzcVpXh1SYrdXxTQG1sEthHsRQ2GJyqOKpG1Vd38muT3+OMHwWe5D+sZXX486MMPEIinqRfWbqm0gDrWoCaX6SC7HpLgQT6a5eBcDBDELt9wmi+8ZMXUTlBe4lvPkUElTbdgK38ruWxKjT5MLBcr7Ozk3vwhCJMP0Hz66GfegLVQ2fbEpt+FkZzsf6H/5JylEo0hFMZxWHDQ26M+vEFCCD5ymLT6E0tlvPpnPqkNmDalCcdAeZD7L1+Anl7QHPJS30UoWOJttk14yZrGio9wDrEeSPaX7P0j3SXXQR9Ww2QVzBwhaZDBT0W+xdGvPpNFCi8+RJS0aMElOX0OB7nlaCi0u8EPJ8ywf7r8qUy3INXRBozpTTZdVv7K10Hkq9N5LA11/dbDlbogvJfgyIhlWpGXREamSPmp2ZUIYh7uyRFP1r+d0RnmH/Cy8DmslCjqwAJ3qAnbpAEDL45idQv0PdrymepRm6TlzVd9mAzY13Z1gVTbUY0cU4D6YJCSaL1xhRUuFunPVnQgSG+nE42QLpqoo2Vy+FXVu85rLERpWA9MNai8TfTFMIR5hmWpsPr4es6MWtFqkQQOg3FZ6xXO7W+vIPFTrPuwlGQ795JLUkklwhv5yGkvFSHcIugLKTi96R49v3piPnNM2kjkCR92UDtRwuQwDU3Xhf1iAzHeODA79fAKSLAArck5E3Lw3lf1wB4wxxru8q+Orn+mMzrPomcOSQaXktmCISVmeKkSE1t56BGWxqv/vrMsbmoZjHrdjOER+9JA0332uYDA+wZeuwlckC/MU9HFMUebOS7BIaFALMKS3DCOrH9O3wF7j5NVu3rxbgGjs4PKaITS7+jHf0=
+--------------------------------------------------------------------------------------
+-- 函数包装
+-- @module U.handle
+-- @author yang zhang
+-- @copyright yang zhang 2018
+-- @date 2018-03-26
+
+--------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------
+-- 生成一个函数proxy, 调用proxy(...)内部会调用target:func(...)
+-- @function U.handle
+-- @param target 函数调用时的对象
+-- @param func   函数调用时的函数
+function handle(target, func)
+	local proxy = function(...)
+		return func(target, ...)
+	end
+	return proxy
+end
+
+--------------------------------------------------------------------------------------
+-- 生成一个函数proxy, 调用proxy(...)内部会调用target:func(param, ...)
+-- @function U.handle_args
+-- @param target 函数调用时的对象
+-- @param func   函数调用时的函数
+function handle_args(target, func, param)
+	local proxy = function(...)
+		return func(target, param, ...)
+	end
+	return proxy
+end
+
+-- 框架调用这个函数，函数的返回值为对外导出函数列表
+return function (util)
+    util.handle         = handle
+    util.handle_args    = handle_args
+    return {}
+end

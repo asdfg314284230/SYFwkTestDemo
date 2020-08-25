@@ -1,1 +1,87 @@
-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
+--------------------------------------------------------------------------------------
+-- 服务器行为模拟模块
+-- @author liuyang
+-- @date 2019-03-01
+--------------------------------------------------------------------------------------
+local _M = {}
+local _env = nil
+local load_list = {}
+local message_list = {}
+local server_data = {}
+local temp_server_data = {}
+
+local all_data_logic_list = {
+    gm = true,
+}
+
+local queue = {}
+local handle_time = 0.5
+local cur_handle_time = handle_time
+function _M.send(session_id, mn, md, ud, flag, handle)
+    table.insert(queue, function()
+        local stateCode = nil
+        local message = nil
+        if message_list[mn.name] then
+            local status, err = pcall(function()
+                stateCode, message = message_list[mn.name](md)
+            end)
+        end
+
+        if stateCode ~= 0 then
+            temp_server_data = server_data
+        else
+            server_data = temp_server_data
+        end
+        handle.localserver_handel(session_id, mn, stateCode, message, server_data)
+    end)
+end
+
+function _M.register(msg, func)
+    assert(type(msg) == "table", "message define must table")
+    assert(type(msg.name) == "string", "msg.name define must string")
+    assert(type(func) == "function", "func define must function")
+    message_list[msg.name] = func
+end
+
+local function init(mode, env)
+    _env = env
+    return _M
+end
+
+local function late_init()
+    local load_list = U.loader.load("game.localserver.load_list", _env)
+    for k, v in pairs(load_list.logic or {}) do
+        local mod = U.loader.load("game.localserver.logic." .. v, _env)
+        local data
+        if all_data_logic_list[v] then
+            data = temp_server_data or {}
+        else
+            temp_server_data[v] = temp_server_data[v] or {}
+            data = temp_server_data[v]
+        end
+
+        mod.on_load({
+            ctx = LS,
+            data = data
+        })
+        
+        mod.on_register()
+    end
+end
+
+local function update(dt)
+    if #queue > 0 then
+        cur_handle_time = cur_handle_time - dt
+        if cur_handle_time <= 0 then
+            local func = table.remove(queue, 1)
+            func()
+            cur_handle_time = handle_time
+        end
+    end
+end
+
+return {
+    init = init,
+    late_init = late_init,
+    update = update
+}
