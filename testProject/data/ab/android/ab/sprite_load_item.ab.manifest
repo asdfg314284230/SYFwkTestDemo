@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4098717381
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 93c4c20fc2b6791bf494c42e821e3d97
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/image/Global/item/gold.png
+Dependencies: []

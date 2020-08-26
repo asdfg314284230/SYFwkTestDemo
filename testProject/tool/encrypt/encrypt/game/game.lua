@@ -1,1 +1,72 @@
-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
+U.log.i('game start')
+
+local gu = require('game.gu.gu')
+
+local main = function(run_mode)
+    
+    print('game main entry')
+
+    -- -- 这个貌似是初始化proto的方法
+    -- N.init_proto()
+
+    -- UI.set_tips({name = 'common.systips'})
+
+    -- N.register_net_callback('kick', function()
+    --     U.log.i('kick')
+
+    --     -- 被踢了 让他回到登陆界面
+    --     UI.load({name = 'login.login_main'})
+    -- end)
+
+    -- N.register_net_callback('reconnection',
+    --                         function() U.log.i('reconnection') end)
+
+    -- -- 注册登陆回调
+    -- local p2l = Game.U.platform_to_lua
+    -- local l2p = Game.U.lua_to_platform
+
+    -- -- 登陆成功回调
+    -- p2l.set_callback('login_success', function(d)
+
+    --     l2p.set_login(true)
+    --     -- 数据转换
+    --     local json_str = U.json.decode(d)
+    --     -- 设置玩家账号数据
+    --     local player_info = {username = d.id, passworld = d.passworld}
+    --     -- 设置本地数据
+    --     M.set_local_data('player_info', player_info)
+
+    -- end)
+
+    -- -- 登陆失败回调
+    -- p2l.set_callback('login_fail', function(d) l2p.set_login(false) end)
+    -- -- 主动退出
+    -- p2l.set_callback('logout_success', function(d) l2p.set_login(false) end)
+
+
+    local world_canvas = UI.get_canvas('world_canvas')
+    local base_canvas = UI.get_canvas('base_canvas')
+    local world_rect = UI.seek_component(world_canvas, world_canvas.name,
+                                         'RectTransform')
+    local base_rect = UI.seek_component(base_canvas, base_canvas.name,
+                                        'RectTransform')
+    local scale = base_rect.sizeDelta.x / world_rect.sizeDelta.x
+    world_rect.localScale = {
+        x = world_rect.localScale.x * scale,
+        y = world_rect.localScale.y * scale,
+        z = world_rect.localScale.z * scale
+    }
+
+    -- Game.U.audio.play_sound('sound/main_bgm')
+
+    -- UI.set_common_sound_func(function()
+    --     Game.U.audio.play_effect({path = Game.U.constant.sound.click})
+    -- end)
+
+    Game.U.audio.init_volume()
+
+    UI.load({name = "loading.loading_main"})
+
+end
+
+return function(run_mode) return main, gu end

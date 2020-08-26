@@ -4,7 +4,7 @@ cd %~dp0
 %~dp0\Debug\tool_project.exe xxteaDirectory %~dp0..\..\src\client\config %~dp0\encrypt\config xProject
 %~dp0\Debug\tool_project.exe xxteaDirectory %~dp0..\..\src\client\game %~dp0\encrypt\game xProject
 %~dp0\Debug\tool_project.exe xxteaDirectory %~dp0..\..\src\server\script\src\network %~dp0\encrypt\game\network xProject
-%~dp0\Debug\tool_project.exe xxteaDirectory %~dp0..\..\..\..\ThinkDemoProject\ThinkLuaFwk\fwk %~dp0\encrypt\fwk xProject
+REM %~dp0\Debug\tool_project.exe xxteaDirectory %~dp0..\..\..\..\ThinkDemoProject\ThinkLuaFwk\fwk %~dp0\encrypt\fwk xProject
 REM %~dp0\Debug\tool_project.exe xxteaDirectory M:\ThinkDemoProject\ThinkLuaFwk\fwk xProject
 
 :: copy 复制未加密的PB

@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 2264072919
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: shader.ab
+      Dependencies: {}
+    Info_1:
+      Name: fight.fight_bullet.ab
+      Dependencies: {}
+    Info_2:
+      Name: fight.fight_item.ab
+      Dependencies: {}
+    Info_3:
+      Name: fight.fight_main.ab
+      Dependencies:
+        Dependency_0: atlas_sell_tp01.ab
+    Info_4:
+      Name: loading.loading_main.ab
+      Dependencies:
+        Dependency_0: atlas_home_tp01.ab
+    Info_5:
+      Name: main.main.ab
+      Dependencies:
+        Dependency_0: atlas_home_tp01.ab
+    Info_6:
+      Name: sprite_load_tool.ab
+      Dependencies: {}
+    Info_7:
+      Name: sprite_load_slag.ab
+      Dependencies: {}
+    Info_8:
+      Name: sprite_load_rank.ab
+      Dependencies: {}
+    Info_9:
+      Name: sprite_load_quests.ab
+      Dependencies: {}
+    Info_10:
+      Name: sprite_load_item.ab
+      Dependencies: {}
+    Info_11:
+      Name: sprite_load_upgrade.ab
+      Dependencies: {}
+    Info_12:
+      Name: atlas_global_tp01.ab
+      Dependencies: {}
+    Info_13:
+      Name: atlas_home_tp01.ab
+      Dependencies: {}
+    Info_14:
+      Name: atlas_maintenance_tp01.ab
+      Dependencies: {}
+    Info_15:
+      Name: atlas_sell_tp01.ab
+      Dependencies: {}
+    Info_16:
+      Name: atlas_shop_tp01.ab
+      Dependencies: {}
+    Info_17:
+      Name: atlas_storage_tp01.ab
+      Dependencies: {}
+    Info_18:
+      Name: sound_041688900-level-complete-sound-5.ab
+      Dependencies: {}
+    Info_19:
+      Name: sound_041688902-level-complete-sound-7.ab
+      Dependencies: {}
+    Info_20:
+      Name: sound_050484809-unlock-level-04.ab
+      Dependencies: {}
+    Info_21:
+      Name: sound_053846107-girl-surprised-thin-voice.ab
+      Dependencies: {}
+    Info_22:
+      Name: sound_055488897-bravo-cartoon-girl-voice.ab
+      Dependencies: {}
+    Info_23:
+      Name: sound_055488924-great-cartoon-girl-voice.ab
+      Dependencies: {}
+    Info_24:
+      Name: sound_055488930-outstanding-cartoon-girl-voice.ab
+      Dependencies: {}
+    Info_25:
+      Name: sound_055488935-good-cartoon-girl-voice.ab
+      Dependencies: {}
+    Info_26:
+      Name: sound_055488950-unbelievable-cartoon-girl-voic.ab
+      Dependencies: {}
+    Info_27:
+      Name: sound_057503471-taking-screws-out-wood-drill-1_drill.ab
+      Dependencies: {}
+    Info_28:
+      Name: sound_057503471-taking-screws-out-wood-drill-1_nail.ab
+      Dependencies: {}
+    Info_29:
+      Name: sound_061100105-handsaw-wood-01 (mp3cut.ab
+      Dependencies: {}
+    Info_30:
+      Name: sound_061100105-handsaw-wood-01.ab
+      Dependencies: {}
+    Info_31:
+      Name: sound_066258578-win-game-level-9.ab
+      Dependencies: {}
+    Info_32:
+      Name: sound_068878996-advertising-ukulele-upbeat-chi.ab
+      Dependencies: {}
+    Info_33:
+      Name: sound_075820656-paint-brushing.ab
+      Dependencies: {}
+    Info_34:
+      Name: sound_079309027-door-shop-bell-1.ab
+      Dependencies: {}
+    Info_35:
+      Name: sound_087178428-female-hi.ab
+      Dependencies: {}
+    Info_36:
+      Name: sound_106710241-shop-til-you-drop-light-easy.ab
+      Dependencies: {}
+    Info_37:
+      Name: sound_catalogue ui window opened.ab
+      Dependencies: {}
+    Info_38:
+      Name: sound_clik.ab
+      Dependencies: {}
+    Info_39:
+      Name: sound_star_1.ab
+      Dependencies: {}
+    Info_40:
+      Name: sound_star_2.ab
+      Dependencies: {}
+    Info_41:
+      Name: sound_star_3.ab
+      Dependencies: {}
+    Info_42:
+      Name: sound_star_4.ab
+      Dependencies: {}
+    Info_43:
+      Name: sound_star_5.ab
+      Dependencies: {}
+    Info_44:
+      Name: sound_star_6.ab
+      Dependencies: {}

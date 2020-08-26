@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3582068066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 472f00d66a8f39ea106cec4bf8e42818
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/image/Atlas/shop_tp01.png
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 330006251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07dea1c1511e0cb4e39ee41d8e37cb03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/055488930-outstanding-cartoon-girl-voice.mp3
+Dependencies: []

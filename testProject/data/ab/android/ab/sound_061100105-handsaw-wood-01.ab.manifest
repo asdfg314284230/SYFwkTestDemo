@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2633744746
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c4b441220396786a9465a24e35b8f8ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/061100105-handsaw-wood-01.mp3
+Dependencies: []

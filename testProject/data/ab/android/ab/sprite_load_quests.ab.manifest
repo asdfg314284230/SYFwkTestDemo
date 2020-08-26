@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 707503991
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 47b8ed11dc2c540b8484104628d0bd9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/image/quests/quests_sign_01.png
+- Assets/res/image/quests/quests_sign_04.png
+Dependencies: []

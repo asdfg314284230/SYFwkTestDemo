@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 212260533
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30119885317e809aaf0f45aba6caba59
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/055488935-good-cartoon-girl-voice.mp3
+Dependencies: []

@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1547781719
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86b3a9371edb0d40dab5897f9667281c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/sound/075820656-paint-brushing.mp3
+Dependencies: []

@@ -84,6 +84,7 @@ namespace SYFwk.Core
                 //string[] game = { "game", Path.Combine(UnityEngine.Application.streamingAssetsPath, "/"), "0" };
                 //string[] config = { "config", Path.Combine(UnityEngine.Application.streamingAssetsPath, "/"), "0" };
                 ////string[] share = { "share", Path.Combine(UnityEngine.Application.streamingAssetsPath, "lua/game"), "1" };
+                
 
                 // 目前固定路径就是放在streamingAssets下，所有相关的配置跟代码都放在这下面,完了后本地存储的数据跟资料放在默认的存储位置上
                 // 0 代表着不加密状态, 1代表着加密状态，如果是正式发布版本需要走正式状态

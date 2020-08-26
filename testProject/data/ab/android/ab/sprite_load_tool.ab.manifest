@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 778226195
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 39107b4e626b674122021f14f9880b06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9e6ad29cbd2df8fbe1a15315db0e51ab
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/res/image/storage/icon_tool/storage_sign_12.png
+- Assets/res/image/storage/icon_tool/duster.png
+- Assets/res/image/storage/icon_tool/wood_shave.png
+- Assets/res/image/storage/icon_tool/saw.png
+- Assets/res/image/storage/icon_tool/electric_drill.png
+- Assets/res/image/storage/icon_tool/storage_sign_05.png
+- Assets/res/image/storage/icon_tool/hammer.png
+- Assets/res/image/storage/icon_tool/chisel.png
+- Assets/res/image/storage/icon_tool/storage_sign_11.png
+- Assets/res/image/storage/icon_tool/claw_hammer.png
+- Assets/res/image/storage/icon_tool/sanding_machine.png
+- Assets/res/image/storage/icon_tool/brush.png
+Dependencies: []
