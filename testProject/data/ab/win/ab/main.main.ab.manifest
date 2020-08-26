@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1485423310
+CRC: 5733402
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bb1842cb70d051a74477e93152e515fd
+    Hash: 483499b2c85902ff9f8d7af8b1073657
   TypeTreeHash:
     serializedVersion: 2
     Hash: dad185509b8a30ccdd6ef9b0f0aebc67
@@ -36,4 +36,4 @@ ClassTypes:
 Assets:
 - Assets/res/prefab/main/main.prefab
 Dependencies:
-- C:/Users/Liu/Documents/SYFwkTestDemo/testProject/data/ab/win/ab/atlas_home_tp01.ab
+- C:/Users/31428/Desktop/SYDemo/testProject/data/ab/win/ab/atlas_home_tp01.ab

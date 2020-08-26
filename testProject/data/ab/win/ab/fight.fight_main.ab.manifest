@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 878453083
+CRC: 3492771539
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36be06532be739771048fffa688a8274
+    Hash: c44e1bc9ced5be84a4650cae6d5bcec0
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 3c215d10b53c0e2e13061f1f972c4a1e
+    Hash: 66c9cfbd9df144f11ec9dbce3c09bf39
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -17,18 +17,10 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
-- Class: 50
-  Script: {instanceID: 0}
-- Class: 61
-  Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8b27f53cae94ecc4e87d78662ac15a25, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -42,5 +34,4 @@ ClassTypes:
 Assets:
 - Assets/res/prefab/fight/fight_main.prefab
 Dependencies:
-- C:/Users/Liu/Documents/SYFwkTestDemo/testProject/data/ab/win/ab/atlas_global_tp01.ab
-- C:/Users/Liu/Documents/SYFwkTestDemo/testProject/data/ab/win/ab/atlas_sell_tp01.ab
+- C:/Users/31428/Desktop/SYDemo/testProject/data/ab/win/ab/atlas_sell_tp01.ab

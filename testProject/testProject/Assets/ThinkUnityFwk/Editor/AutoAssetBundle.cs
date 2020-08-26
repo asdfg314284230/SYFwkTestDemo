@@ -244,6 +244,7 @@ namespace SYFwk.Tool
             string path = File.ReadAllText(src + "../pack_ver.txt");
 
             int pack_ver = int.Parse(File.ReadAllText(path));
+
             pack_ver++;
             string ver = src + "../ver_" + pack_ver + "/";
             string ver_ab = src + "../ver_" + pack_ver + "/ab/";
