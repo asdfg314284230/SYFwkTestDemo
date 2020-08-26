@@ -36,6 +36,7 @@ namespace SYFwk.Core
 
         static public void Start()
         {
+            //sEnv.DoString(@"require 'game.game'");
             sEnv.DoString(@"require 'fwk.syfwk'");
 
             Debug.Log(sEnv);

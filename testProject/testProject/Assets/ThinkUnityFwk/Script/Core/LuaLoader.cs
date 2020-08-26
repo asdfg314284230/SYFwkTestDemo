@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Runtime.InteropServices;
@@ -33,11 +34,9 @@ namespace SYFwk.Core
             sLoadMode = mode;
             SYLuaEnv.sEnv.AddBuildin("json", LoadRapidJson);
             SYLuaEnv.sEnv.AddBuildin("pb", LoadPb);
-            
+
+
             sLuaSearchList = new ArrayList();
-            //string[] fwk = { "fwk", Path.Combine(UnityEngine.Application.dataPath, "../../src_encrypt/"), "1" };
-            //string[] game = { "game", Path.Combine(UnityEngine.Application.dataPath, "../../src/client/"), "0" };
-            //string[] config = { "config", Path.Combine(UnityEngine.Application.dataPath, "../../src/client/"), "0" };
             if (sLoadMode == LoadMode.LM_FWK)
             {
                 string[] fwk = { "fwk", Path.Combine(UnityEngine.Application.dataPath, "../../ThinkLuaFwk/"), "0" };
@@ -84,13 +83,31 @@ namespace SYFwk.Core
                 //string[] game = { "game", Path.Combine(UnityEngine.Application.streamingAssetsPath, "/"), "0" };
                 //string[] config = { "config", Path.Combine(UnityEngine.Application.streamingAssetsPath, "/"), "0" };
                 ////string[] share = { "share", Path.Combine(UnityEngine.Application.streamingAssetsPath, "lua/game"), "1" };
-                
+
+
 
                 // 目前固定路径就是放在streamingAssets下，所有相关的配置跟代码都放在这下面,完了后本地存储的数据跟资料放在默认的存储位置上
                 // 0 代表着不加密状态, 1代表着加密状态，如果是正式发布版本需要走正式状态
-                string[] fwk = { "fwk", UnityEngine.Application.streamingAssetsPath + "/", "0" };
-                string[] game = { "game", UnityEngine.Application.streamingAssetsPath + "/", "0" };
-                string[] config = { "config", UnityEngine.Application.streamingAssetsPath + "/", "0" };
+                string[] fwk = { "fwk", UnityEngine.Application.dataPath + "/src_encrypt/", "0" };
+                string[] game = { "game", UnityEngine.Application.dataPath + "/src_encrypt/", "0" };
+                string[] config = { "config", UnityEngine.Application.dataPath + "/src_encrypt/", "0" };
+
+
+                string subPath = UnityEngine.Application.dataPath + "/src_encrypt/";
+                string tagPath = UnityEngine.Application.streamingAssetsPath + "/src_encrypt/";
+
+
+                if (File.Exists(subPath))
+                {
+
+                }
+
+                Debug.Log(subPath);
+                Debug.Log(tagPath);
+
+                // Copy 文件
+                CopyFolder(tagPath, subPath);
+
 
                 sLuaSearchList.Add(fwk);
                 //sLuaSearchList.Add(network);
@@ -98,6 +115,7 @@ namespace SYFwk.Core
                 sLuaSearchList.Add(config);
                 //sLuaSearchList.Add(share);
             }
+
             SYLuaEnv.sEnv.AddLoader((ref string name) =>
             {
                 string[] tab = name.Split('.');
@@ -107,7 +125,10 @@ namespace SYFwk.Core
                     {
                         continue;
                     }
+
                     var filepath = Path.Combine(param[1], name.Replace('.', '/') + ".lua");
+
+
                     if (tab[0] == "network")
                     {
                         Debug.Log(filepath);
@@ -353,5 +374,48 @@ namespace SYFwk.Core
             Debug.Log("===================");
             return null;
         }
+
+
+        /// <summary>
+        /// 复制文件夹及文件
+        /// </summary>
+        /// <param name="sourceFolder">原文件路径</param>
+        /// <param name="destFolder">目标文件路径</param>
+        /// <returns></returns>
+        public static int CopyFolder(string sourceFolder, string destFolder)
+          {
+              try
+             {
+                 //如果目标路径不存在,则创建目标路径
+                 if (!System.IO.Directory.Exists(destFolder))
+                 {
+                     System.IO.Directory.CreateDirectory(destFolder);
+                 }
+                 //得到原文件根目录下的所有文件
+                 string[] files = System.IO.Directory.GetFiles(sourceFolder);
+                 foreach (string file in files)
+                 {
+                     string name = System.IO.Path.GetFileName(file);
+                     string dest = System.IO.Path.Combine(destFolder, name);
+                     System.IO.File.Copy(file, dest,true);//复制文件
+                 }
+                 //得到原文件根目录下的所有文件夹
+                 string[] folders = System.IO.Directory.GetDirectories(sourceFolder);
+                 foreach (string folder in folders)
+                 {
+                     string name = System.IO.Path.GetFileName(folder);
+                     string dest = System.IO.Path.Combine(destFolder, name);
+                     CopyFolder(folder, dest);//构建目标路径,递归复制文件
+                 }                
+                 return 1;
+             }
+             catch (Exception e)
+             {
+                 //MessageBox.Show(e.Message);
+                 return 0;
+             }
+         
+         }
+
     }
 }

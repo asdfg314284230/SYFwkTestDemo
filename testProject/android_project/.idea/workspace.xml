@@ -1,137 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="Unity" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b427fb72-5190-42e5-afc5-123909de57ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../src_encrypt/game/game.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../src_encrypt/game/game.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src_encrypt/game/mgr/fight_mgr.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../src_encrypt/game/mgr/fight_mgr.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src_encrypt/game/model/fight.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../src_encrypt/game/model/fight.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src_encrypt/game/ui/fight/fight_main.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../src_encrypt/game/ui/fight/fight_main.lua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src_encrypt/src_encrypt.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../src_encrypt/src_encrypt.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/.vs/testProject/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/.vs/testProject/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/.vs/testProject/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assembly-CSharp-Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/config/config.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/env.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/extend/extend.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/extend/string.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/extend/table.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/logic/logic.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/mgr/mgr.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/model/model.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/client.1.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/client.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/error_code.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/localserver.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/message.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/network.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/proto.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/socket.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/socket_auth.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/network/socket_game.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/syfwk.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/ui/base.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/ui/interim.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/ui/loader.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/ui/net_mask.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/ui/ui.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/ui/unity_impl.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/util/handle.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/util/http.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/util/loader.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/util/log.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/util/scheduler.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/util/sensitivity.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/fwk/util/util.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/game.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/audio.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/collection.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/common.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/constant.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/gu.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/image.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/lua_to_platform.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/platform_to_lua.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/text.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/gu/tools.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/mgr/fight_mgr.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/model/fight.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/model/info.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/pb/player.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/pb/test.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/ui/actionbar.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/ui/fight/fight_item.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/ui/fight/fight_lose_dialog.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/ui/fight/fight_main.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/ui/loading/loading_main.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/game/ui/main/main.lua" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_global_tp01.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_global_tp01.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_home_tp01.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_home_tp01.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_maintenance_tp01.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_maintenance_tp01.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_sell_tp01.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_sell_tp01.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_shop_tp01.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_shop_tp01.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_storage_tp01.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/atlas_storage_tp01.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/fight.fight_item.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/fight.fight_item.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/fight.fight_lose_dialog.ab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/fight.fight_main.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/fight.fight_main.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/fight.fight_win_dialog.ab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/loading.loading_main.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/loading.loading_main.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/main.main.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/main.main.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/shader.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/shader.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_041688900-level-complete-sound-5.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_041688900-level-complete-sound-5.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_041688902-level-complete-sound-7.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_041688902-level-complete-sound-7.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_050484809-unlock-level-04.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_050484809-unlock-level-04.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_053846107-girl-surprised-thin-voice.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_053846107-girl-surprised-thin-voice.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488897-bravo-cartoon-girl-voice.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488897-bravo-cartoon-girl-voice.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488924-great-cartoon-girl-voice.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488924-great-cartoon-girl-voice.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488930-outstanding-cartoon-girl-voice.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488930-outstanding-cartoon-girl-voice.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488935-good-cartoon-girl-voice.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488935-good-cartoon-girl-voice.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488950-unbelievable-cartoon-girl-voic.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_055488950-unbelievable-cartoon-girl-voic.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_057503471-taking-screws-out-wood-drill-1_drill.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_057503471-taking-screws-out-wood-drill-1_drill.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_057503471-taking-screws-out-wood-drill-1_nail.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_057503471-taking-screws-out-wood-drill-1_nail.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_061100105-handsaw-wood-01 (mp3cut.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_061100105-handsaw-wood-01 (mp3cut.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_061100105-handsaw-wood-01.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_061100105-handsaw-wood-01.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_066258578-win-game-level-9.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_066258578-win-game-level-9.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_068878996-advertising-ukulele-upbeat-chi.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_068878996-advertising-ukulele-upbeat-chi.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_075820656-paint-brushing.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_075820656-paint-brushing.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_079309027-door-shop-bell-1.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_079309027-door-shop-bell-1.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_087178428-female-hi.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_087178428-female-hi.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_106710241-shop-til-you-drop-light-easy.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_106710241-shop-til-you-drop-light-easy.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_catalogue ui window opened.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_catalogue ui window opened.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_clik.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_clik.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_1.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_1.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_2.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_2.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_3.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_3.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_4.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_4.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_5.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_5.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_6.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sound_star_6.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_item.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_item.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_quests.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_quests.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_rank.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_rank.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_slag.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_slag.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_tool.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_tool.ab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_upgrade.ab" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/ab/sprite_load_upgrade.ab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/res_list.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/ver_data/res_list.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/zip_lua/src_encrypt.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/StreamingAssets/zip_lua/src_encrypt.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testProject/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/Assets/ThinkUnityFwk/Script/Core/Component/MainBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/ThinkUnityFwk/Script/Core/Component/MainBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/Assets/ThinkUnityFwk/Script/Core/LuaLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/ThinkUnityFwk/Script/Core/LuaLoader.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/Assets/ThinkUnityFwk/Script/Core/SYLuaEnv.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/ThinkUnityFwk/Script/Core/SYLuaEnv.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/Assets/scene/main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/Assets/scene/main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/obj/Debug/spine-unity-editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/obj/Debug/spine-unity-editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testProject/obj/Debug/spine-unity.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/obj/Debug/spine-unity.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/obj/Debug/spine-unity.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/obj/Debug/spine-unity.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/spine-unity-editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/spine-unity-editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../testProject/spine-unity.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../testProject/spine-unity.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/game.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/game.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/mgr/fight_mgr.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/mgr/fight_mgr.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/model/fight.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/model/fight.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/ui/fight/fight_main.lua" beforeDir="false" afterPath="$PROJECT_DIR$/../tool/encrypt/encrypt/game/ui/fight/fight_main.lua" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tool/encrypt/p - 副本.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../tool/encrypt/p - 副本.bat" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -149,9 +47,6 @@
       </state>
     </system>
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
@@ -167,56 +62,20 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-447" />
-    <option name="y" value="221" />
-    <option name="width" value="1932" />
-    <option name="height" value="1045" />
-  </component>
+  <component name="ProjectId" id="1ge0nz1OMRB31OrDy2Zl8q2NxEp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="android_project" type="1abcf292:AndroidViewProjectNode" />
-              <item name="unityLibrary" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="android_project" type="1abcf292:AndroidViewProjectNode" />
-              <item name="unityLibrary" type="feadf853:AndroidModuleNode" />
-              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="android.sdk.path" value="$USER_HOME$/Desktop/AndroidXSDK" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../AndroidXSDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -241,8 +100,6 @@
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
       <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
       <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
       <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
       <option name="DEBUGGER_TYPE" value="Auto" />
@@ -292,46 +149,5 @@
       <updated>1598409940800</updated>
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" visible="true" weight="0.32995737" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info active="true" anchor="bottom" id="Logcat" visible="true" weight="0.62364423" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Android Profiler" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.329718" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="make" />
-      <window_info anchor="right" id="Palette&#9;" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/unityLibrary/src/main/assets/fwk/ui/unity_impl.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="453" column="33" selection-start-line="453" selection-start-column="17" selection-end-line="453" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unityLibrary/src/main/assets/ver_data/res_list.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
   </component>
 </project>

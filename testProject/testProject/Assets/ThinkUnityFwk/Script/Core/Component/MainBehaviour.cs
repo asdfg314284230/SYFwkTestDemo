@@ -24,6 +24,7 @@ namespace SYFwk.Core
 #endif
             
             SYLuaEnv.Init();
+            // 传入读取路径
             SYLuaEnv.Start();
 
             Screen.sleepTimeout = SleepTimeout.NeverSleep;
